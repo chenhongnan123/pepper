@@ -1,0 +1,23 @@
+{
+  "productManagement": {
+    "table": {
+      "no": "Number",
+      "productId": "Product ID",
+      "productNumber": "Product Code",
+      "productName": "Product Name",
+      "productModel": "Model",
+      "productionPriority": "Production Priority",
+      "productDesc": "Description",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

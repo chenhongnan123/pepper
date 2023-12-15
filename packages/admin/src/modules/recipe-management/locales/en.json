@@ -1,0 +1,25 @@
+{
+  "recipeManagement": {
+    "table": {
+      "recipeManagementFallhead": "Drop Head Recipe",
+      "recipeManagementSintering": "Sintering Recipe",
+      "recipeManagementFallheadDetail": "Drop Head Recipe Details",
+      "recipeManagementSinteringDetail": "Sintering Recipe Details",
+      "no": "Number",
+      "recipeVersion": "Recipe Version",
+      "deviceNumber": "Device Number",
+      "deviceName": "Device Name",
+      "typeName": "Device Type",
+      "status": "Enabled",
+      "remark": "Description",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "recipeStatus": "Recipe Deployment Status"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

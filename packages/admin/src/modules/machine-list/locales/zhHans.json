@@ -1,0 +1,45 @@
+{
+  "machineList": {
+    "table": {
+      "no": "序号",
+      "deviceName": "设备名称",
+      "deviceNumber": "设备编号",
+      "deviceId": "设备id",
+      "typeId": "设备类型id",
+      "processName": "工序名称",
+      "processNumber": "工序编号",
+      "transportName": "行车",
+      "onlineStatus": "数据采集状态",
+      "parameterName": "参数名称",
+      "parameterNumber": "标签",
+      "categoryName": "参数类型",
+      "categoryNumber": "参数类型 ",
+      "parameterValue": "参数值",
+      "isAssignProduct": "是否指定产品",
+      "status": "状态",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "remark": "备注",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "dialog": {
+      "addDictType": "添加字典类型",
+      "editDictType": "编辑添加字典类型",
+      "addDictData": "添加字典数据",
+      "editDictData": "编辑字典数据"
+    },
+    "label": {
+      "machinetype": "设备类型",
+      "searchmachinetype": "搜索设备类型"
+    },
+    "btn": {
+      "normalStatus": "是",
+      "disabledStatus": "否"
+    },
+    "verification": {
+      "dictTypeError": "以字母开头，且只能为小写字母，数字，下滑线"
+    }
+  }
+}

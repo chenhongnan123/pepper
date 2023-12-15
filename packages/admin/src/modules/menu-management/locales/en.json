@@ -1,0 +1,40 @@
+{
+  "menuManagement": {
+    "table": {
+      "name": "Menu Name",
+      "nameCn": "Menu Chinese Name",
+      "nameEn": "Menu English Name",
+      "icon": "Icon",
+      "sort": "Display Order",
+      "component": "Component Route",
+      "path": "Route Address",
+      "type": "Type",
+      "visible": "Visible",
+      "permission": "Permission Identifier",
+      "action": "Action"
+    },
+    "dialog": {
+      "addMenu": "Add Menu",
+      "editMenu": "Edit Menu"
+    },
+    "label": {
+      "mainMenu": "Main Directory",
+      "parent": "Parent Menu",
+      "type": "Menu Type",
+      "module": "Module",
+      "directory": "Directory",
+      "menu": "Menu",
+      "button": "Button",
+      "status": "Menu Status",
+      "isRefresh": "Refreshable",
+      "isOutLink": "External Link",
+      "yes": "Yes",
+      "no": "No",
+      "show": "Show",
+      "hide": "Hide",
+      "openMode": "Open Mode",
+      "outOpen": "External Open",
+      "inOpen": "Internal Open"
+    }
+  }
+}

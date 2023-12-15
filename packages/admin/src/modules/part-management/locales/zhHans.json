@@ -1,0 +1,41 @@
+{
+  "partManagement": {
+    "label": {
+      "addPart": "新增零件",
+      "editPart": "编辑零件",
+      "acceptTip": "仅支持jpg/jpeg/png文件",
+      "productSpec": "规格型号",
+      "supplier": "供应商",
+      "attachment": "附件",
+      "maintenanceTask": "维保任务",
+      "addAttachment": "新增附件",
+      "inprogressall": "未完成/所有任务：",
+      "search": "搜索任务名称",
+      "model": "规格型号"
+
+    },
+    "table": {
+      "no": "No.",
+      "partNumber": "零件代码",
+      "partName": "零件名称",
+      "partDescription": "零件描述",
+      "partType": "零件类型",
+      "itemCategory": "零件属性",
+      "updateBy": "修改人",
+      "updateTime": "修改时间"
+    },
+    "maintenanceTable": {
+      "status": "任务状态",
+      "taskCode": "任务代码",
+      "taskName": "任务名称",
+      "taskType": "任务类型",
+      "taskCreatedTime": "任务创建时间",
+      "planStartTime": "计划开始时间",
+      "planEndTime": "计划结束时间"
+    },
+    "fileName": {
+      "sampleFileName": "零件模板",
+      "exportFileName": "零件数据"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "productLaunch": {
+    "label": {
+      "productInfo": "Product Information",
+      "position": "Target Position",
+      "dispatchNumber": "Dispatch Number",
+      "lightRodNumber": "Light Rod Number",
+      "coreNumber": "Core Number",
+      "handleNumber": "Handle Number",
+      "productNumber": "Product Code",
+      "deviceNumber": "Device Code"
+    },
+    "btn": {
+      "launch": "Launch"
+    },
+    "dialog": {
+      "scan": "Scan"
+    }
+  }
+}

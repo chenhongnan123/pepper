@@ -1,0 +1,35 @@
+{
+  "monitorRecord": {
+    "table": {
+      "no": "No.",
+      "bomName": "部件名称",
+      "bomParentName": "层级名称",
+      "partName": "部件名称",
+      "eventName": "事件名称",
+      "type": "算法类型",
+      "algorithmType": "算法类型",
+      "algorithm": "算法",
+      "warnCode": "警告代码",
+      "warnContent": "警告内容",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "remark": "备注",
+      "createBy": "创建人",
+      "createTime": "记录时间",
+      "action": "操作"
+    },
+    "label": {
+      "device": "设备",
+      "standardalgorithm": "标准算法",
+      "customalgorithms": "定制算法"
+    },
+    "dialog": {
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "verification": {
+      "limitError": "请输入数字"
+    }
+  }
+}

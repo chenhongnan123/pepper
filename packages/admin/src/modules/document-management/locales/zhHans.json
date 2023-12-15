@@ -1,0 +1,31 @@
+{
+  "documentManagement": {
+    "table": {
+      "no": "No.",
+      "folderId": "文件夹id",
+      "folderName": "文件夹名称",
+      "folderNumber": "文件夹编号",
+      "fileName": "附件名称",
+      "fileExtension": "文件类型",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "上传人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "addAttachment": "新增附件"
+    },
+    "label": {
+      "folder": "文件夹",
+      "searchfolder": "搜索文件夹",
+      "name": "名称",
+      "number": "编号"
+    },
+    "dialog": {
+      "addFolder": "新增文件夹",
+      "editFolder": "编辑文件夹",
+      "addAnnex": "新增附件"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "loginLog": {
+    "table": {
+      "index": "Index",
+      "tabletLogin": "Terminal",
+      "userName": "User Name",
+      "ipAddress": "Login Address",
+      "status": "Login Status",
+      "description": "Description",
+      "accessTime": "Login Time"
+    },
+    "dialog": {
+      "tip": "Tip",
+      "confirmClean": "Are you sure you want to clear all operation log data?"
+    }
+  }
+}

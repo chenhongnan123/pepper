@@ -1,0 +1,15 @@
+{
+  "initialAdministrator": {
+    "account": "Account",
+    "password": "Password",
+    "factory": "Factory",
+    "lastName": "Last Name",
+    "firstName": "First Name",
+    "email": "Email",
+    "telephone": "Telephone",
+    "action": "Action",
+    "addInitialAdministrator": "Add Initial Administrator",
+    "editInitialAdministrator": "Edit Initial Administrator",
+    "moreInfo": "More Information"
+  }
+}

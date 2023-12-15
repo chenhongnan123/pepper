@@ -1,0 +1,32 @@
+{
+  "machineAttribute": {
+    "table": {
+      "no": "No.",
+      "attributeId": "Equipment Attribute ID",
+      "processName": "Process",
+      "typeName": "Type Name",
+      "isCheckType": "Is Inspection Type",
+      "transportName": "Transport",
+      "stayTime": "Stay Time (minutes)",
+      "isGenerateTask": "Generate Task on Report",
+      "isPullTask": "Initiate Task Retrieval",
+      "isAssignDevice": "Specify Device",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {},
+    "verification": {
+      "stayTime": "Please enter a number, up to one decimal place."
+    },
+    "message": {
+      "error": "Inconsistency between the workshop associated with the equipment type and the transport associated."
+    }
+  }
+}

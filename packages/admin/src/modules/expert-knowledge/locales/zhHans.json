@@ -1,0 +1,32 @@
+{
+  "expertKnowledge": {
+    "table": {
+      "type": "经验类型",
+      "typeNumber": "经验类型编号",
+      "typeName": "经验类型名称",
+      "number": "经验编号",
+      "name": "经验名称",
+      "description": "经验描述",
+      "errorCode": "报警代码",
+      "errorName": "报警名称",
+      "errorPosition": "故障位置",
+      "modifyBy": "修改人",
+      "modifyTime": "修改时间",
+      "createdBy": "创建人",
+      "createdTime": "创建时间",
+      "active": "启用"
+    },
+    "tab": {
+    },
+    "btn": {
+    },
+    "dialog": {
+      "addExpertKnowledge": "新增专家经验",
+      "editExpertKnowledge": "编辑专家经验",
+      "addExpertKnowledgeType": "新增专家经验类型",
+      "editExpertKnowledgeType": "编辑专家经验类型",
+      "expertKnowledgeEnableConfirm": "该经验将被启用，是否继续？",
+      "expertKnowledgeDisableConfirm": "该经验将被停用，是否继续？"
+    }
+  }
+}

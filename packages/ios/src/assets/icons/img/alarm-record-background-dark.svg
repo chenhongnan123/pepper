@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="144px" height="74px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="3.7280412455176277" y1="75.5535949725218" x2="144.00000052255405" y2="75.55359497252138" id="LinearGradient1363">
+      <stop id="Stop1364" stop-color="#00e0db" stop-opacity="0.4" offset="0" />
+      <stop id="Stop1365" stop-color="#4ff8f7" stop-opacity="0.09019607843137255" offset="0.24" />
+      <stop id="Stop1366" stop-color="#66ffff" stop-opacity="0" offset="0.5" />
+      <stop id="Stop1367" stop-color="#4ef8f7" stop-opacity="0.09803921568627451" offset="0.73" />
+      <stop id="Stop1368" stop-color="#00e0db" stop-opacity="0.4196078431372549" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="144" y1="9.505276203155518" x2="0" y2="9.505276203155521" id="LinearGradient1369">
+      <stop id="Stop1370" stop-color="#00d2d5" offset="0" />
+      <stop id="Stop1371" stop-color="#00d2d5" stop-opacity="0.1803921568627451" offset="0.13" />
+      <stop id="Stop1372" stop-color="#00d2d5" stop-opacity="0" offset="0.5" />
+      <stop id="Stop1373" stop-color="#00d2d5" stop-opacity="0.20392156862745098" offset="0.9" />
+      <stop id="Stop1374" stop-color="#00d2d5" stop-opacity="0.7490196078431373" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip1375">
+      <path d="M 127.1780776977539 0  L 18.26360511779785 0  L 0 8.000328063964844  L 0 64.07341766357422  L 18.26360511779785 74  L 127.1780776977539 74  L 144 64.07341766357422  L 144 8.000328063964844  L 127.1780776977539 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1172 -139 )">
+    <path d="M 127.1780776977539 0  L 18.26360511779785 0  L 0 8.000328063964844  L 0 64.07341766357422  L 18.26360511779785 74  L 127.1780776977539 74  L 144 64.07341766357422  L 144 8.000328063964844  L 127.1780776977539 0  Z " fill-rule="nonzero" fill="url(#LinearGradient1363)" stroke="none" transform="matrix(1 0 0 1 1172 139 )" />
+    <path d="M 127.1780776977539 0  L 18.26360511779785 0  L 0 8.000328063964844  L 0 64.07341766357422  L 18.26360511779785 74  L 127.1780776977539 74  L 144 64.07341766357422  L 144 8.000328063964844  L 127.1780776977539 0  Z " stroke-width="2" stroke="url(#LinearGradient1369)" fill="none" transform="matrix(1 0 0 1 1172 139 )" mask="url(#clip1375)" />
+  </g>
+</svg>

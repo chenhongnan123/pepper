@@ -1,0 +1,80 @@
+{
+  "dataSource": {
+    "dialog": {
+      "add": "新增",
+      "edit": "规则详情",
+      "export": "导出",
+      "addColumn": "新增列",
+      "editColumn": "编辑列",
+      "confirmClean": "是否确认清空所有数据？"
+    },
+    "btn": {
+      "clean": "清空数据",
+      "editColumn": "编辑列",
+      "addColumn": "新增列"
+    },
+    "table": {
+      "no": "No.",
+      "status": "数据采集状态",
+      "dataSourceNumber": "数据表编号",
+      "dataSourceName": "数据表名称",
+      "storageFrequency": "存储频率",
+      "storageDuration": "保存时长",
+      "needBackup": "是否备份",
+      "storageRule": "储存规则",
+      "storageMode": "数据表类型",
+      "active": "启用",
+      "inactive": "禁用",
+      "updateTime": "修改时间",
+      "updateBy": "修改人",
+      "createdtimestamp": "创建时间",
+      "timestamp": "时间戳",
+      "year": "年",
+      "month": "月",
+      "day": "日",
+      "week": "周",
+      "hour": "小时",
+      "ts": "组别"
+    },
+    "label": {
+      "showSourceRule": "查看规则详情",
+      "storageMode": "记录类型",
+      "trigger": "触发规则",
+      "triggerEnd": "触发结束信号",
+      "triggerStart": "触发开始信号",
+      "triggerOrNot": "是否触发",
+      "triggerSingle": "单次触发",
+      "parameter": "参数",
+      "value": "值",
+      "columnName": "列名",
+      "attribute": "属性",
+      "timeRange": "时间范围",
+      "file": "文件",
+      "action": "操作",
+      "search": "搜索",
+      "uploadTips": "仅支持上传.json/.tar格式，限制文件上传个数为2",
+      "statusList": {
+        "1": "在线",
+        "0": "停止"
+      },
+      "storageModeList": {
+        "1": "记录PLC参数",
+        "2": "记录触发间隔时间",
+        "3": "参数特征提取",
+        "4": "记录更新数据"
+      },
+      "storageDurationList": {
+        "1": "1天",
+        "2": "7天",
+        "3": "30天",
+        "4": "90天",
+        "5": "180天",
+        "6": "365天"
+      }
+    },
+    "fileName": {
+      "sampleFileName": "通讯参数模板",
+      "exportFileName": "通讯参数"
+    }
+  }
+}

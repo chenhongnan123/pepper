@@ -1,0 +1,30 @@
+{
+  "errorRepair": {
+    "table": {
+      "no": "No.",
+      "status": "状态",
+      "name": "任务名称",
+      "description": "故障现象",
+      "defectCode": "报警代码",
+      "reportPosition": "故障位置",
+      "createByName": "报修人",
+      "createTime": "报修时间",
+      "processByName": "处理人",
+      "processTime": "处理时间",
+      "action": "操作"
+    },
+    "dialog": {
+      "addErrorRepair": "新增故障报修",
+      "editErrorRepair": "处理故障报修",
+      "planTimeEmpty": "请填写计划开始时间和计划结束时间。",
+      "planEndTimeEarlier": "计划结束时间不可早于计划开始时间。"
+    },
+    "label": {
+      "status": "处理状态",
+      "all": "所有",
+      "DEL": "取消，暂不处理",
+      "CREATE_TASK": "生成维修任务",
+      "errorCode": "报警代码"
+    }
+  }
+}

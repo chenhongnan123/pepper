@@ -1,0 +1,21 @@
+{
+  "processManagement": {
+    "table": {
+      "no": "Number",
+      "processId": "Process ID",
+      "processName": "Process Name",
+      "processNumber": "Process Number",
+      "processDesc": "Description",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

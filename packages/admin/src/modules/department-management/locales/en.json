@@ -1,0 +1,31 @@
+{
+  "departmentManagement": {
+    "table": {
+      "number": "Department Code",
+      "name": "Department Name",
+      "sort": "Display Order",
+      "type": "Type",
+      "leader": "Leader",
+      "status": "Status",
+      "action": "Action"
+    },
+    "dialog": {
+      "addDept": "Add Department",
+      "editDept": "Edit Department",
+      "deptEnableConfirm": "This department will be enabled, continue?",
+      "deptDisableConfirm": "This department will be disabled, continue?"
+    },
+    "label": {
+      "parent": "Parent Department",
+      "type": "Department Type",
+      "group": "Group",
+      "company": "Company",
+      "dept": "Department",
+      "status": "Department Status",
+      "phone": "Contact Phone",
+      "email": "Email",
+      "able": "Active",
+      "disable": "Disabled"
+    }
+  }
+}

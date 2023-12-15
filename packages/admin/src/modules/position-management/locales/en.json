@@ -1,0 +1,29 @@
+{
+  "positionManagement": {
+    "dialog": {
+      "addPosition": "Add Position",
+      "editPosition": "Edit Position",
+      "postEnabledConfirm": "Are you sure you want to enable this position?",
+      "postDisabledConfirm": "Are you sure you want to disable this position?"
+    },
+    "label": {
+      "positionNumber": "Position Number",
+      "positionName": "Position Name",
+      "sortNum": "Display Order",
+      "status": "Position Status",
+      "active": "Active",
+      "inactive": "Inactive",
+      "remark": "Remarks"
+    },
+    "table": {
+      "number": "Number",
+      "positionNumber": "Position Number",
+      "positionName": "Position Name",
+      "sortNum": "Display Order",
+      "status": "Status",
+      "createdBy": "Created By",
+      "creationTime": "Creation Time",
+      "action": "Action"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "onlineUser": {
+    "table": {
+      "no": "No",
+      "tokenId": "Session ID",
+      "userName": "Login Name",
+      "ipaddr": "Host",
+      "loginTime": "Login Time",
+      "browser": "Browser",
+      "loginLocation": "Login Location",
+      "action": "Action"
+    },
+    "dialog": {
+      "refundtip": "System Prompt",
+      "refund": "Force logout selected users?"
+    },
+    "btn": {
+      "refund": "Force Logout"
+    },
+    "verification": {
+      "dictTypeError": "Must start with a letter and can only contain lowercase letters, numbers, and underscores"
+    }
+  }
+}

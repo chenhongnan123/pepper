@@ -1,0 +1,95 @@
+{
+  "connectionConfiguration": {
+    "btn": {
+      "collectionMonitor": "Collection Monitor",
+      "syncParams": "Sync Parameters"
+    },
+    "dialog": {
+      "connectioninfo": "Add Connection",
+      "editconnectioninfo": "Edit Connection",
+      "connectionparameter": "Connection Settings",
+      "deleterecord": "Delete Record",
+      "deleterecordconfirm": "Are you sure you want to delete the selected record?",
+      "addparameter": "Add Parameter",
+      "editparameter": "Edit Parameter",
+      "selectprotocol": "Select Protocol",
+      "collectionMonitor": "Collection Monitor",
+      "syncParams": "Sync Parameters",
+      "ignore": "The following parameters already exist!"
+    },
+    "table": {
+      "number": "No.",
+      "deviceCode": "Connection Code",
+      "deviceName": "Connection Name",
+      "deviceDesc": "Connection Description",
+      "deviceCommunicateType": "Connection Type",
+      "connectionAddress": "Connection Address",
+      "deviceIp": "IP",
+      "devicePort": "Port Number",
+      "deviceArea": "Rack Number",
+      "deviceSlot": "Station",
+      "opcuaUrl": "Node Url",
+      "endpoint": "Suffix",
+      "active": "Active",
+      "inactive": "Inactive",
+      "updateTime": "Modified Time",
+      "updateBy": "Modified By",
+      "timeout": "Collection Frequency",
+      "timeoutName": "Set Value",
+      "prefix": "Class Name",
+      "onlineStatus": "Online Status",
+      "online": "Online",
+      "offline": "Offline"
+    },
+    "parameterTable": {
+      "monitor": "Monitor",
+      "no": "No.",
+      "parameterNumber": "Parameter Code",
+      "parameterName": "Parameter Name",
+      "parameterDescription": "Parameter Description",
+      "paramsTypeName": "Parameter Type",
+      "parameterDataType": "Data Type",
+      "dbAddress": "Data Block Address",
+      "startAddress": "Start Address",
+      "size": "Length",
+      "bitNumber": "Byte Offset",
+      "maxDecimal": "Maximum Decimal",
+      "moniEnabled": "Status Monitoring",
+      "namespace": "Namespace",
+      "identifierLabel": "Identifier",
+      "upLimit": "Upper Limit Value",
+      "downLimit": "Lower Limit Value",
+      "upLimitRate": "Upper Limit Float Ratio",
+      "downLimitRate": "Lower Limit Float Ratio",
+      "statusMonitor": "Status Monitoring",
+      "chartCodeName": "Chart Type",
+      "uom": "Unit",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "product": "Component",
+      "productName": "Component Name",
+      "status": "Availability",
+      "ethernetName": "PLC Parameter Name",
+      "mcAddress": "Address",
+      "modbusStartAddress": "Start Address"
+    },
+    "fileName": {
+      "sampleFileName": "Connection Parameter Template",
+      "exportFileName": "Connection Parameters"
+    },
+    "settingTable": {
+      "no": "No.",
+      "dictValue": "Code",
+      "dataTypeLen": "Node",
+      "dictLabel": "Name",
+      "remark": "Description",
+      "enabledFlag": "System Lock"
+    },
+    "parameterTypeSetting": {
+      "title": "Parameter Types"
+    },
+    "dataTypeSetting": {
+      "title": "Data Types"
+    }
+  }
+}

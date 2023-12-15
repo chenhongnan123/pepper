@@ -1,0 +1,80 @@
+{
+  "maintenanceTask": {
+    "table": {
+      "status": "状态",
+      "target": "任务对象",
+      "number": "任务代码",
+      "name": "任务名称",
+      "type": "任务类型",
+      "taskCreationDate": "任务生成时间",
+      "scheduledStartDate": "计划开始时间",
+      "scheduledCompletionDate": "计划结束时间",
+      "taskProcessOwner": "处理人",
+      "taskProcessDate": "处理时间",
+      "errorCode": "故障代码",
+      "planId": "计划ID",
+      "planName": "计划名称",
+      "maintenance": "方案",
+      "checkItem": "检查项",
+      "checkItemDescription": "检查项描述",
+      "relatedBom": "关联部件",
+      "upperLimit": "理论上限",
+      "lowerLimit": "理论下限",
+      "actualValue": "实际值",
+      "result": "判定结果",
+      "remark": "备注",
+      "reportPosition": "故障位置",
+      "maintenancePosition": "维保位置",
+      "advanceReminderTime": "超前提醒时间（小时）",
+      "errorName": "故障内容",
+      "errorDesc": "故障描述",
+      "symptom": "故障现象",
+      "reason": "故障原因",
+      "solution": "解决措施",
+      "partCode": "零件编号",
+      "partName": "零件名称",
+      "partDesc": "零件描述",
+      "partNum": "零件数量",
+      "action": "操作",
+      "bomName": "BOM名称"
+    },
+    "tab": {
+      "maintenanceTask": "保养任务",
+      "repairTask": "维修任务",
+      "taskContent": "任务内容",
+      "attachment": "上传附件",
+      "part": "零件更换"
+    },
+    "btn": {
+      "addTempTask": "新增临时保养任务",
+      "startTask": "开始任务",
+      "completeTask": "完成任务",
+      "cancelTask": "取消任务",
+      "addAttachment": "上传附件",
+      "addPart": "更换零件",
+      "expertise": "专家经验",
+      "createExpertise": "生成专家经验",
+      "showAllExpertise": "查看所有的专家经验",
+      "showFilterExpertise": "查看当前零件的专家经验"
+    },
+    "dialog": {
+      "addTempTask": "新增临时保养任务",
+      "addPart": "零件更换",
+      "expertise": "专家经验",
+      "createExpertise": "生成专家经验",
+      "ignore": "以下零件已存在！"
+    },
+    "label": {
+      "nostart": "未开始",
+      "complete": "已完成",
+      "inprogress": "进行中",
+      "delay": "逾期",
+      "cancel": "已取消",
+      "typeList": {
+        "time": "基于时间",
+        "status": "基于状态",
+        "temp": "临时"
+      }
+    }
+  }
+}

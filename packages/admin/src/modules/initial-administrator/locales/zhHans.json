@@ -1,0 +1,15 @@
+{
+  "initialAdministrator": {
+    "account": "账号",
+    "password": "密码",
+    "factory": "工厂",
+    "lastName": "姓氏",
+    "firstName": "名称",
+    "email": "邮箱",
+    "telephone": "电话",
+    "action": "操作",
+    "addInitialAdministrator": "新增初始管理员",
+    "editInitialAdministrator": "编辑初始管理员",
+    "moreInfo": "更多信息"
+  }
+}

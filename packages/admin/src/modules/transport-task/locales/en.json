@@ -1,0 +1,30 @@
+{
+  "transportTask": {
+    "table": {
+      "no": "Number",
+      "status": "Task Status",
+      "createTime": "Creation Time",
+      "number": "Transport Number",
+      "name": "Transport Name",
+      "startPointNumber": "Start Point Number",
+      "startPointName": "Start Point Name",
+      "endPointNumber": "End Point Number",
+      "endPointName": "End Point Name",
+      "dispatchNumber": "Dispatch Number",
+      "handleNumber": "Handle Number",
+      "coreNumber": "Core Number",
+      "lightRodNumber": "Light Rod Number",
+      "productNumber": "Product Number"
+    },
+    "btn": {
+      "listView": "Switch to List View",
+      "cardView": "Switch to Card View"
+    },
+    "dialog": {
+    },
+    "label": {
+      "status": "Task Status",
+      "transport": "Transport"
+    }
+  }
+}

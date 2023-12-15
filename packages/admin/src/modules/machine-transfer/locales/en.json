@@ -1,0 +1,37 @@
+{
+  "machineTransfer": {
+    "table": {
+      "no": "No.",
+      "deviceId": "Device ID",
+      "typeId": "Device Type ID",
+      "transferId": "Transfer ID",
+      "deviceName": "Device Name",
+      "deviceNumber": "Device Number",
+      "sourceDeviceName": "Source Device Name",
+      "sourceDeviceNumber": "Source Device Number",
+      "targetDeviceName": "Target Device Name",
+      "targetDeviceNumber": "Target Device Number",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Created Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template",
+      "reduce": "Remove",
+      "load": "Load",
+      "saveexit": "Save and Exit",
+      "save": "Save"
+    },
+    "dialog": {
+      "ignorerecord": "Note: The following entries already exist and have been automatically ignored."
+    },
+    "label": {
+      "sourceDeviceType": "Source Device Type",
+      "targetDeviceType": "Target Device Type",
+      "machineTransferList": "Machine Transfer List",
+      "devicetypedropdown": "Device Type"
+    }
+  }
+}

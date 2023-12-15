@@ -1,0 +1,55 @@
+{
+  "userManagement": {
+    "dialog": {
+      "addUser": "新增用户",
+      "editUser": "编辑用户",
+      "selectDepartment": "选择部门",
+      "resetPwd": "重置密码",
+      "assignRole": "分配角色",
+      "userEnabledConfirm":"确认要启用该用户吗？",
+      "userDisabledConfirm":"确认要停用该用户吗？"
+    },
+    "btn": {
+      "resetPwd": "重置密码",
+      "assignRole": "分配角色"
+    },
+    "label": {
+      "organization": "组织结构",
+      "search": "部门搜索",
+      "nickname": "用户名称",
+      "departmentName": "所属部门",
+      "phoneNumber": "手机号码",
+      "email": "邮箱",
+      "userAccount": "登录账号",
+      "password": "登录密码",
+      "sex": "性别",
+      "male": "男",
+      "female": "女",
+      "unknown": "未知",
+      "status": "用户状态",
+      "active": "启用",
+      "inactive": "停用",
+      "wechatPublicId": "微信公众号ID",
+      "dingtalkId": "钉钉ID",
+      "wechatEnterpiriseId": "个人企业微信",
+      "position": "岗位",
+      "role": "角色",
+      "remark": "备注",
+      "newPwd": "新密码"
+    },
+    "verification": {
+      "pwdLengthLimit": "密码长度必须在5到20之间。"
+    },
+    "table": {
+      "number": "序号",
+      "userAccount": "登录账号",
+      "userNickname": "用户名称",
+      "deptmentName": "部门名称",
+      "phoneNumber": "手机号码",
+      "status": "状态",
+      "createdBy": "创建人",
+      "creationTime": "创建时间",
+      "action": "操作"
+    }
+  }
+}

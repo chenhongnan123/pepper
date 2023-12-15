@@ -1,0 +1,32 @@
+{
+  "alarmCode": {
+    "table": {
+      "connectionId": "通讯id",
+      "connectionType": "通讯类型",
+      "parameterName": "参数名称",
+      "parameterNumber": "参数代码",
+      "connectionName": "连接名称",
+      "alarmCode": "报警代码",
+      "alarmName": "报警名称",
+      "joinScore": "是否参与评分",
+      "bomName": "层级名称",
+      "parentBomName": "层级名称",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "action": "操作"
+    },
+    "dialog": {
+      "addMenu": "新增菜单",
+      "editMenu": "编辑菜单",
+      "searchPart": "搜索零部件"
+    },
+    "label": {
+      "misspart": "请选择一个零件",
+      "misscode": "请选择一个参数",
+      "parameter": "参数"
+    },
+    "verification": {
+      "duplicate": "数据重复"
+    }
+  }
+}

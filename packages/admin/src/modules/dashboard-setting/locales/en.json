@@ -1,0 +1,80 @@
+{
+  "dashboardSetting": {
+    "table": {
+      "no": "No.",
+      "boardCode": "Card Code",
+      "name": "Card Name",
+      "sort": "Display Order",
+      "isBoard": "Enable",
+      "action": "Action"
+    },
+    "dialog": {
+      "editDtboardSetting": "Edit Dashboard Settings",
+      "boardEnableConfirm": "This card will be displayed on the dashboard, continue?",
+      "boardDisableConfirm": "This card will not be displayed on the dashboard, continue?",
+      "syncParameters": "Sync Parameters"
+    },
+    "label": {
+      "classExample": "Style Example:",
+      "connectionParameter": "Connection Parameters"
+    },
+    "detailTable": {
+      "no": "No.",
+      "adverseCauses": "Adverse Causes",
+      "connectionName": "Connection Name",
+      "connectionType": "Connection Type",
+      "parameterCode": "Parameter Code",
+      "parameterName": "Parameter Name",
+      "parameterDescription": "Parameter Description"
+    },
+    "title": {
+      "C0001": {
+        "batchNumber": "Batch Number",
+        "workOrder": "Work Order",
+        "productCode": "Product Model",
+        "orderQuantity": "Order Quantity",
+        "passCode": "Pass Quantity",
+        "failCode": "Fail Quantity"
+      },
+      "C0002": {
+        "orderQuantity": "Planned Output",
+        "passCode": "Good Output",
+        "totalProducts": "Total Output"
+      },
+      "C0003": {
+        "orderQuantity": "Planned Output",
+        "passCode": "Good Output",
+        "failCode": "Defective Output",
+        "totalProducts": "Total Output"
+      },
+      "C0004": {
+        "normal1_current": "Activation Force 1",
+        "USL": "Activation Force Upper Limit",
+        "normal2_current": "Activation Force 2",
+        "UCL": "Activation Force Lower Limit"
+      },
+      "C0005": {
+      },
+      "C0006": {
+        "destructiveForce1_current": "Destructive Force 1",
+        "USL": "Destructive Force Upper Limit",
+        "destructiveForce2_current": "Destructive Force 2",
+        "UCL": "Destructive Force Lower Limit",
+        "CBK": "Cpk Warning Value",
+        "CBKQuantity": "Current Cpk"
+      },
+      "C0007": {
+        "jl1_current": "Adhesive Amount Value 1",
+        "USL": "Adhesive Amount Value Upper Limit",
+        "jl2_current": "Adhesive Amount Value 2",
+        "UCL": "Adhesive Amount Value Lower Limit"
+      },
+      "C0008": {
+      },
+      "C0009": {
+        "sampling_current": "IPC Current Sampling Count",
+        "sampling": "IPC Sampling Count"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "reportsManagement": {
+    "table": {
+      "no": "Number",
+      "showChart": "Show Chart",
+      "hideChart": "Hide Chart",
+      "query": "Query",
+      "action": "Action",
+      "statement": "Report"
+    },
+    "btn": {
+      "saveCurrent": "Save",
+      "saveReport": "Generate Report",
+      "saveAs": "Save As",
+      "export": "Export"
+    },
+    "label": {
+      "dataSource": "Data Source",
+      "reportName": "Report Name"
+    }
+  }
+}

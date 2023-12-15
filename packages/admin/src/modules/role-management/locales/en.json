@@ -1,0 +1,50 @@
+{
+  "roleManagement": {
+    "table": {
+      "no": "Number",
+      "name": "Role Name",
+      "sort": "Display Order",
+      "remark": "Remarks",
+      "status": "Role Status",
+      "userStatus": "User Status",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Operation",
+      "userAccount": "Login Account",
+      "userNickname": "User Name",
+      "phoneNumber": "Phone Number",
+      "email": "Email"
+    },
+    "btn": {
+      "revoke": "Revoke Authorization",
+      "assignUser": "Assign Users",
+      "addUser": "Add Users"
+    },
+    "dialog": {
+      "add": "Add Role",
+      "edit": "Edit Role",
+      "dataScope": "Assign Data Permissions",
+      "selectUser": "Select Users",
+      "roleEnableConfirm": "This role will be enabled. Continue?",
+      "roleDisableConfirm": "This role will be disabled. Continue?",
+      "revokeConfirm": "Selected user authorization will be revoked. Continue?"
+    },
+    "label": {
+      "roleKey": "Permission Key",
+      "status": "Status",
+      "able": "Active",
+      "disable": "Disabled",
+      "menuPermission": "Menu Permissions",
+      "dataScope": "Data Permissions",
+      "permissionRange": "Permission Range",
+      "dataScopeList": {
+        "1": "All Data Permission",
+        "2": "Custom Data Permission",
+        "3": "Department Data Permission",
+        "4": "Department and Below Data Permission",
+        "5": "Personal Data Permission"
+      },
+      "tabletLogin": "Terminal"
+    }
+  }
+}

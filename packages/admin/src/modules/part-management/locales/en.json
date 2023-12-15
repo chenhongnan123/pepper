@@ -1,0 +1,41 @@
+{
+  "partManagement": {
+    "label": {
+      "addPart": "Add Part",
+      "editPart": "Edit Part",
+      "acceptTip": "Only support jpg/jpeg/png files",
+      "productSpec": "Product Specification",
+      "supplier": "Supplier",
+      "attachment": "Attachment",
+      "maintenanceTask": "Maintenance Tasks",
+      "addAttachment": "Add Attachment",
+      "inprogressall": "Incomplete/All Tasks:",
+      "search": "Search Task Name",
+      "model": "Product Specification"
+      
+    },
+    "table": {
+      "no": "No.",
+      "partNumber": "Part Code",
+      "partName": "Part Name",
+      "partDescription": "Part Description",
+      "partType": "Part Type",
+      "itemCategory": "Part Category",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time"
+    },
+    "maintenanceTable": {
+      "status": "Task Status",
+      "taskCode": "Task Code",
+      "taskName": "Task Name",
+      "taskType": "Task Type",
+      "taskCreatedTime": "Task Creation Time",
+      "planStartTime": "Planned Start Time",
+      "planEndTime": "Planned End Time"
+    },
+    "fileName": {
+      "sampleFileName": "Part Template",
+      "exportFileName": "Part Data"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "processManagement": {
+    "table": {
+      "no": "序号",
+      "processId": "工序id",
+      "processName": "工序名称",
+      "processNumber": "工序编号",
+      "processDesc": "描述",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

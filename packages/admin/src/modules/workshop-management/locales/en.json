@@ -1,0 +1,21 @@
+{
+  "workshopManagement": {
+    "table": {
+      "no": "No.",
+      "workshopId": "Workshop ID",
+      "workshopName": "Workshop Name",
+      "workshopNumber": "Workshop Number",
+      "workshopDesc": "Description",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

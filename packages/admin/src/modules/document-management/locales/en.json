@@ -1,0 +1,31 @@
+{
+  "documentManagement": {
+    "table": {
+      "no": "No.",
+      "folderId": "Folder ID",
+      "folderName": "Folder Name",
+      "folderNumber": "Folder Number",
+      "fileName": "File Name",
+      "fileExtension": "File Type",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Uploaded By",
+      "createTime": "Created Time",
+      "action": "Action"
+    },
+    "btn": {
+      "addAttachment": "Add File"
+    },
+    "label": {
+      "folder": "Folder",
+      "searchfolder": "Search Folder",
+      "name": "Name",
+      "number": "Number"
+    },
+    "dialog": {
+      "addFolder": "Add Folder",
+      "editFolder": "Edit Folder",
+      "addAnnex": "Add File"
+    }
+  }
+}

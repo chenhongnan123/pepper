@@ -1,0 +1,13 @@
+{
+  "test": "测试",
+  "helloWorld": {
+    "email": "邮件",
+    "account": "账户",
+    "home": "主页",
+    "testComponent1": "测试组件1",
+    "testComponent2": "测试组件2",
+    "setting": {
+      "title": "设置测试"
+    }
+  }
+}

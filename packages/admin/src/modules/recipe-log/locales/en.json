@@ -1,0 +1,18 @@
+{
+  "recipeLog": {
+    "table": {
+      "no": "Number",
+      "recipeVersion": "Version",
+      "deviceName": "Device Name",
+      "status": "Status",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Communication Status"
+    },
+    "btn": {},
+    "dialog": {},
+    "label": {}
+  }
+}

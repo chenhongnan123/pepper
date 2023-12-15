@@ -1,0 +1,31 @@
+{
+  "departmentManagement": {
+    "table": {
+      "number": "部门编码",
+      "name": "部门名称",
+      "sort": "显示排序",
+      "type": "类型",
+      "leader": "负责人",
+      "status": "状态",
+      "action": "操作"
+    },
+    "dialog": {
+      "addDept": "新增部门",
+      "editDept": "编辑部门",
+      "deptEnableConfirm": "该部门将被启用，是否继续？",
+      "deptDisableConfirm": "该部门将被停用，是否继续？"
+    },
+    "label": {
+      "parent": "上级部门",
+      "type": "部门类型",
+      "group": "集团",
+      "company": "公司",
+      "dept": "部门",
+      "status": "部门状态",
+      "phone": "联系电话",
+      "email": "邮箱",
+      "able": "正常",
+      "disable": "停用"
+    }
+  }
+}

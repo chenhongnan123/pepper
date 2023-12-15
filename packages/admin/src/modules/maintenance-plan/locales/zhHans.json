@@ -1,0 +1,73 @@
+{
+  "maintenancePlan": {
+    "table": {
+      "no": "No.",
+      "maintenanceTarget": "维保对象",
+      "number": "计划代码",
+      "name": "计划名称",
+      "maintenance": "运维方案",
+      "modifyBy": "修改人",
+      "modifyTime": "修改时间",
+      "cycle": "重复周期",
+      "advanceCreationTime": "提前创建时间（日）",
+      "advanceReminderTime": "超前提醒时间（小时）",
+      "trigger": "触发方式",
+      "triggerNum": "触发数量",
+      "advanceCreatedTaskRatio": "提前创建任务比例",
+      "advanceReminderRatio": "超前提醒比例",
+      "estimatedTime": "预估工时（小时）",
+      "active": "启用"
+    },
+    "tab": {
+      "byTime": "基于时间",
+      "byStatus": "基于状态",
+      "month": "月",
+      "day": "日",
+      "hour": "时"
+    },
+    "btn": {
+      "example": "生成示例"
+    },
+    "dialog": {
+      "addMaintenancePlan": "创建计划",
+      "planEnableConfirm": "该计划将被启用，是否继续？",
+      "planDisableConfirm": "该计划将被停用，是否继续？",
+      "cronInvalid": "Cron表达式无效"
+    },
+    "label": {
+      "playType": "计划类型",
+      "cycleName": "重复周期名称",
+      "trigger": "触发条件",
+      "cycleExample": "示例周期",
+      "everyMonth": "每月",
+      "everyDay": "每天",
+      "everyHour": "每小时",
+      "monthInterval": "间隔制定月",
+      "dayInterval": "间隔制定日",
+      "hourInterval": "间隔制定小时",
+      "assignMonth": "指定月份",
+      "assignDay": "指定日期",
+      "assignWeek":"指定星期",
+      "Monday": "周一",
+      "Tuesday": "周二",
+      "Wednesday": "周三",
+      "Thursday": "周四",
+      "Friday": "周五",
+      "Saturday": "周六",
+      "Sunday": "周日",
+      "assignHour": "指定小时",
+      "from":"从",
+      "to": "到",
+      "step": "跨度",
+      "advanceCreationTime": "提前创建时间（日）",
+      "advanceReminderTime": "超前提醒时间（小时）",
+      "count": "计次",
+      "timing": "计时",
+      "countParam": "计次/时参数（累计）",
+      "advanceCreatedTaskRatio": "提前创建任务比例",
+      "advanceReminderRatio": "超前提醒比例",
+      "estimatedTime": "预估工时（小时）",
+      "triggerNumTips": "*计次为运行次数,计时为运行时长(h)"
+    }
+  }
+}

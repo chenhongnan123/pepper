@@ -1,0 +1,413 @@
+{
+  "$vuetify": {
+    "badge": "ป้าย",
+    "close": "ปิด",
+    "dataIterator": {
+      "noResultsText": "ไม่พบข้อมูล",
+      "loadingText": "กำลังโหลด..."
+    },
+    "dataTable": {
+      "itemsPerPageText": "จำนวนแถวต่อหน้า:",
+      "ariaLabel": {
+        "sortDescending": "เรียงจากมากไปน้อย",
+        "sortAscending": "เรียงจากน้อยไปมาก",
+        "sortNone": "ไม่เรียงลำดับ",
+        "activateNone": "เปิดเพื่อยกเลิกการเรียง",
+        "activateDescending": "เปิดเพื่อเรียงจากมากไปน้อย",
+        "activateAscending": "เปิดเพื่อเรียงจากน้อยไปมาก"
+      },
+      "sortBy": "เรียงโดย"
+    },
+    "dataFooter": {
+      "itemsPerPageText": "จำนวนรายการต่อหน้า:",
+      "itemsPerPageAll": "ทั้งหมด",
+      "nextPage": "หน้าต่อไป",
+      "prevPage": "หน้าก่อนหน้า",
+      "firstPage": "หน้าแรก",
+      "lastPage": "หน้าหลังสุด",
+      "pageText": "{0}-{1} จาก {2}"
+    },
+    "datePicker": {
+      "itemsSelected": "เลือก {0}",
+      "nextMonthAriaLabel": "เดือนต่อไป",
+      "nextYearAriaLabel": "ปีต่อไป",
+      "prevMonthAriaLabel": "เดือนก่อนหน้า",
+      "prevYearAriaLabel": "ปีก่อนหน้า"
+    },
+    "noDataText": "ไม่มีข้อมูล",
+    "carousel": {
+      "prev": "ภาพก่อนหน้า",
+      "next": "ภาพต่อไป",
+      "ariaLabel": {
+        "delimiter": "สไลด์เลื่อน {0} จาก {1}"
+      }
+    },
+    "calendar": {
+      "moreEvents": "{0} มากกว่า"
+    },
+    "fileInput": {
+      "counter": "{0} ไฟล์",
+      "counterSize": "{0} ไฟล์ ({1} จากทั้งหมด)"
+    },
+    "timePicker": {
+      "am": "AM",
+      "pm": "PM"
+    },
+    "pagination": {
+      "ariaLabel": {
+        "wrapper": "เลขหน้านำทาง",
+        "next": "หน้าต่อไป",
+        "previous": "หน้าก่อนหน้า",
+        "page": "ไปที่หน้า {0}",
+        "currentPage": "หน้าปัจจุบัน, หน้า {0}"
+      }
+    }
+  },
+  "success": {
+    "OTP_SENT": "รหัส OTP ได้ส่งไปที่อีเมล หรือ โทรศัพท์ที่ลงทะเบียนไว้",
+    "PASSWORD_RESET": "รหัสใหม่ได้ถูกส่งไปที่ อีเมล/โทรศัพท์ที่ลงทะเบียนไว้ ",
+    "UPDATED": "ปรับปรุง!",
+    "PLAN_CREATED": "แผนถูกสร้าง!",
+    "PLAN_IMPORTED": "แผนถูกอิมพอร์ต!",
+    "PLAN_UPDATED": "แผนถูกปรับปรุง!",
+    "PLAN_DELETED": "แผนถูกลบ!",
+    "ASSET_UPDATE": "อุปกรณ์ได้รับการปรับปรุง!",
+    "CREATED_RECORD": "ข้อมูลเพิ่มสำเร็จ!",
+    "DELETE_RECORD": "ข้อมูลลบสำเร็จ!",
+    "ROLE_UPDATED": "บทบาทปรับปรุงสำเร็จ!",
+    "USER_DELETED": "ผู้ใช้งานถูกลบสำเร็จ!",
+    "DOWNTIME_UPDATE": "เหตุผลเครื่องจักรหยุดถูกปรับปรุงแล้ว!",
+    "OPERATOR_UPDATE": "ผู้ใช้งานปรับปรุงแล้ว!",
+    "REJECTION_UPDATE": "ของเสียปรับปรุงแล้ว!",
+    "REWORK_UPDATE": "งานแก้ไขปรับปรุงแล้ว!",
+    "SCRAP_UPDATE": "สแครปปรับปรุงแล้ว!",
+    "PERMISSION_UPDATE": "สิทธิ์ของบทบาทปรับปรุงแล้ว!",
+    "MATRIX_UPDATE": "เมทริกซ์ชิ้นงานปรับปรุงแล้ว!",  
+    "ERROR_CREATING_ORDER": "ผิดพลาดขณะสร้างรายการ",
+    "ERROR_CREATING_ORDER_PRODUCT": "ผิดพลาดขณะสร้างรายการสำหรับ 'รายการสินค้า'",
+    "ERROR_CREATING_ORDER_ROADMAP": "ผิดพลาดขณะสร้างรายการสำหรับ 'รายการแผนงาน'.", 
+    "ORDER_CREATED": "สร้างรายการสำเร็จ",
+    "ORDER_PRODUCT_CREATED": "สร้างบันทึกจำนวนมากสำหรับ 'Order Product' successfully.",
+    "ORDER_ROADMAP_CREATED": "สร้างบันทึกจำนวนมากสำหรับ 'Order Roadmap' successfully.",
+    "ERROR_NO_PRODUCT_DETAILS": "ไม่พบข้อมูลในรายละเอียดการผลิต",
+    "ERROR_NO_ROADMAP_DETAILS": "ไม่พบข้อมูลในรายละเอียดแผนงาน",
+    "ROLE_CREATED": "สร้างบทบาทสำเร็จแล้ว!",
+    "EXPORT_REQUEST": "สร้างคำขอส่งออกข้อมูลแล้ว คุณจะได้รับอีเมลพร้อมลิงค์ดาวน์โหลดในไม่ช้า"
+  },
+  "error": {
+    "ERROR_CREATING_RECORD": "เกิดข้อผิดพลาดในการเพิ่มข้อมูล",
+    "ERROR_DELETE_RECORD": "เกิดข้อผิดพลาดในการลบข้อมูล",
+    "NOT_VALID": "{_field_} ไม่ถูกต้อง",
+    "NO_LICENSE": "คุณไม่มีใบอนุญาตที่ใช้งานอยู่ โปรดติดต่อฝ่ายสนับสนุนของ",
+    "CANNOT_FETCH_LICENSE": "เราไม่สามารถเรียกใบอนุญาตที่ใช้งานอยู่ของคุณได้ กรุณาลองอีกครั้ง",
+    "INVALID_SESSION": "เซสชั่นหมดอายุ: กรุณาเข้าสู่ระบบอีกครั้ง",
+    "USER_ALREADY_EXIST": "มีผู้ใช้นี้อยู่แล้ว",
+    "USER_NOT_FOUND": "ไม่พบบัญชีผู้ใช้",
+    "EMAIL_NOT_FOUND": "ไม่พบบัญชีผู้ใช้",
+    "INCORRECT_PASSWORD": "การเข้าสู่ระบบล้มเหลว: รหัสผ่านไม่ถูกต้อง",
+    "INVALID_OTP": "การเข้าสู่ระบบล้มเหลว: OTP ไม่ถูกต้อง.",
+    "MISSING_BUSINESS_HOUR": "ควรจัดสรรชั่วโมงตามลำดับ กรุณาตรวจสอบข้อมูลของคุณ",
+    "INVALID_HOURS_SUM": "ผลรวมของชั่วโมงที่จัดสรรไว้ควรเป็น 24 ชั่วโมง โปรดตรวจสอบข้อมูลของคุณ",
+    "ERROR_CREATING_PLAN": "เกิดข้อผิดพลาดขณะสร้างแผน โปรดลองอีกครั้ง",
+    "PLAN_UPDATED": "เกิดข้อผิดพลาดขณะอัปเดตแผน โปรดรีเฟรชและลองอีกครั้ง",
+    "PLAN_DELETED": "เกิดข้อผิดพลาดขณะลบแผน โปรดรีเฟรชและลองอีกครั้ง",
+    "ASSET_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตอุปกรณ์ โปรดลองอีกครั้ง",
+    "ERROR_UPDATING_PLAN": "เกิดข้อผิดพลาดขณะอัปเดตแผน โปรดลองอีกครั้ง",
+    "INVALID_DOWNTIME_SPLIT": "เวลาเริ่มต้นหรือสิ้นสุดการหยุดทำงานไม่ถูกต้อง กรุณาตรวจสอบข้อมูลของคุณ",
+    "DOWNTIME_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตเหตุผลเครื่องจักรหยุด โปรดลองอีกครั้ง",
+    "OPERATOR_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตผู้ปฏิบัติงาน โปรดลองอีกครั้ง",
+    "REJECTION_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตของเสีย โปรดลองอีกครั้ง",
+    "REJECTION_NOT_ALLOWED": "ไม่สามารถอัปเดตของเสีย ปริมาณควรน้อยกว่าปริมาณงานดี",
+    "REWORK_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตงานแก้ไขได้ โปรดลองอีกครั้ง",
+    "REWORK_NOT_ALLOWED": "ไม่สามารถอัปเดตงานแก้ไขได้ ปริมาณควรน้อยกว่าปริมาณงานดี",
+    "SCRAP_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตสแครป โปรดลองอีกครั้ง",
+    "PERMISSION_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตการสิทธิ์บทบาท โปรดลองอีกครั้ง",
+    "MATRIX_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตเมทริกซ์ของชิ้นงาน โปรดลองอีกครั้ง",
+    "ERROR_CREATING_ORDER": "เกิดข้อผิดพลาดขณะสร้างคำสั่ง",
+    "ERROR_CREATING_ORDER_PRODUCT": "เกิดข้อผิดพลาดขณะสร้างบันทึกจำนวนมากสำหรับ 'Order Product'.",
+    "ERROR_CREATING_ORDER_ROADMAP": "เกิดข้อผิดพลาดขณะสร้างบันทึกจำนวนมากสำหรับ 'Order Roadmap'.",
+    "ORDER_CREATED": "สร้างคำสั่งเรียบร้อยแล้ว",
+    "ORDER_PRODUCT_CREATED": "สร้างบันทึกจำนวนมากสำหรับ 'Order Product' successfully.",
+    "ORDER_ROADMAP_CREATED": "สร้างบันทึกจำนวนมากสำหรับ 'Order Roadmap' successfully.",
+    "ERROR_NO_PRODUCT_DETAILS": "ไม่พบข้อมูลในรายละเอียดการผลิต",
+    "ERROR_NO_ROADMAP_DETAILS": "ไม่พบข้อมูลในรายละเอียดแผนงาน",
+    "ROLE_CREATED": "เกิดข้อผิดพลาดขณะสร้างบทบาท โปรดลองอีกครั้ง",
+    "ROLE_CREATE_RETRY": "สร้างบทบาทสำเร็จแล้ว แต่เราไม่สามารถกำหนดการเข้าถึงบทบาทได้ โปรดอัปเดตการอนุญาตจากตาราง",
+    "EXPORT_REQUEST": "คุณไม่ได้รับอนุญาตให้ส่งออกข้อมูล"
+  },
+  "fields": {
+    "email": "อีเมล",
+    "phone": "โทรศัพท์",
+    "password": "รหัส",
+    "otp": "OTP",
+    "firstName": "ชื่อจริง",
+    "lastName": "นามสกุล",
+    "name": "ชื่อ",
+    "type": "ชนิด",
+    "startTime": "เวลาเริ่ม",
+    "endTime": "เวลาจบ",
+    "date": "วัน",
+    "shift": "กะ",
+    "role": "บทบาท",
+    "partname": "ชื่อชิ้นงาน",
+    "machinename": "ชื่อเครื่องจักร",
+    "moldname": "ชื่อโมล",
+    "toolname": "ชื่อเครื่องมือ",
+    "equipmentname": "ชื่ออุปกรณ์",
+    "quantity": "จำนวน",
+    "activecavity": "คาวิตี้ที่ใช้",
+    "strokes": "จำนวนสโตรกต่อชิ้นงาน",
+    "cycletime": "ไซเคิลไทม์",
+    "delaytime": "เวลาดีเลย์",
+    "familyactivecavity": "คาวิตี้ที่ใช้",
+    "scheduledstart": "ตั้งเวลาเริ่ม",
+    "rejectedQuantity": "จำนวน",
+    "rejectionReason": "เหตุผล",
+    "reworkQuantity": "จำนวน",
+    "reworkReason": "เหตุผล",
+    "scrapWeight": "น้ำหนัก",
+    "scrapReason": "เหตุผล",
+    "downtimeReason": "เหตุผล",
+    "downtimeStart": "เวลาเริ่ม",
+    "downtimeEnd": "เวลาจบ",
+    "modelName": "ชื่อโมล"
+  },
+  "snackbar": {
+    "close": "ปิด",
+    "redirectToLogin": "กำลังเปลี่ยนเส้นทางใน {time}"
+  },
+  "auth": {
+    "phoneRequired": "จำเป็นต้องใส่เบอร์โทรศัพท์",
+    "phoneInvalid": "เบอร์โทรศัพท์ต้องถูกต้อง",
+    "emailRequired": "จำเป็นต้องใส่อีเมล",
+    "emailInvalid": "อีเมลต้องถูกต้อง"
+  },
+  "helper": {
+    "or": "หรือ",
+    "help": "ช่วยเหลือ",
+    "next": "ต่อไป",
+    "skip": "ข้ามไปก่อน",
+    "loading": "กำลังโหลด...",
+    "cancel": "ยกเลิก",
+    "agree": "ตกลง"
+  },
+  "notFound": {
+    "title": "เกิดความผิดพลาดขึ้น!",
+    "subTitle1": "URL ที่เรียก",
+    "subTitle2": "{url}",
+    "subTitle3": "ไม่พบในเซิร์ฟเวอร์นี้",
+    "goHome": "กลับไปที่หน้าหลัก"
+  },
+  "serverError": {
+    "title": "ข้อผิดพลาด!",
+    "subTitle1": "มีบางอย่างผิดพลาด...",
+    "subTitle2": "ข้อผิดพลาดรหัส 500.",
+    "subTitle3": "พบสิ่งผิดปกติเกิดขึ้นและเรากำลังแก้ไขปัญหานี้อยู่! ระบบจะกลับมาใช้ได้ใหม่เร็วๆนี้",
+    "goHome": "กลับไปที่หน้าหลัก"
+  },
+  "forbidden": {
+    "title": "ห้ามเข้าถึง!",
+    "subTitle1": "คุณพยายามที่จะเข้าสู่หน้าที่คุณไม่ได้รับ",
+    "subTitle2": "การอนุญาต",
+    "subTitle3": "สำหรับ",
+    "goHome": "กลับไปที่หน้าหลัก"
+  },
+  "login": {
+    "title": "เข้าสู่ระบบ Infinity",
+    "subTitle": "ใช้บัญชี {text} ของคุณ",
+    "identifier": "อีเมล หรือ โทรศัพท์",
+    "password": "รหัส",
+    "otp": "OTP",
+    "resendOtp": "ส่ง OTP อีกครั้ง?",
+    "resendOtpIn": "ส่ง OTP อีกครั้งใน {time}",
+    "sendOtp": "ส่ง OTP",
+    "forgotPassword": "ลืมรหัส?",
+    "login": "เข้าสู่ระบบอย่างปลอดภัย",
+    "loginWithOtp": "เข้าระบบด้วย OTP",
+    "loginWithPassword": "เข้าระบบด้วยรหัส"
+  },
+  "forgotPassword": {
+    "title": "รีเซ็ตรหัส?",
+    "subTitle": "ใส่อีเมล หรือเบอร์โทรศัพท์ของคุณ",
+    "reset": "รีเซ็ตรหัส"
+  },
+  "welcome": {
+    "title": "ยินดีต้อนรับ! เรารอคุณอยู่",
+    "subTitle1": "เริ่มต้นทีละขั้น สิ่งแรกคือ",
+    "subTitle2": "การสร้างบัญชีของคุณ",
+    "subTitle3": "จะใช้เวลาน้อยกว่าหนึ่งนาที",
+    "start": "มาเริ่มต้นกัน"
+  },
+  "register": {
+    "account": {
+      "title": "ปรังปรุงบัญชี {text} ของคุณ",
+      "update": "ปรับปรุงบัญชี",
+      "firstName": "ชื่อจริง",
+      "lastName": "นามสกุล",
+      "email": "อีเมล (ออฟชั่น)",
+      "phone": "โทรศัพท์ (ออฟชั่น)"
+    },
+    "password": {
+      "title": "ปรับปรุงรหัส {text} ของคุณ",
+      "newPassword": "รหัสใหม่",
+      "confirmPassword": "ยืนยันรหัส",
+      "update": "ปรับปรุงรหัส"
+    },
+    "updated": "บัญชี {text} ของคุณได้รับการปรับปรุง!"
+  },
+  "modules": {
+    "rawdata": "แผนผังภาพข้อมูล",
+    "apps": "แอฟ",
+    "operation": "ปฎิบัติการ",
+    "dashboards": "แดชบอร์ด",
+    "home": "หน้าหนัก",
+    "order": "คำสั่ง",
+    "spc": "SPC",
+    "configuration": "การกำหนดค่า",
+    "dataconfiguration": "การกำหนดค่าข้อมูล",
+    "traceabilityApp": "การตรวจสอบย้อนกลับ",
+    "traceability": "การตรวจสอบย้อนกลับ",
+    "management": "การจัดการ",
+    "shopfloorDashboard": "แดชบอร์ดหน้างาน",
+    "productionImage": "รูปการผลิต",
+    "liveShopfloor": "ไลฟ์หน้างาน",
+    "utilityDashboard": "ยูทิลิตี้",
+    "energyDashboard": "การใช้พลังงาน",
+    "processDashboard": "ไลฟ์กระบวนการ",
+    "orderManagement": "คำสั่ง",
+    "productionLog": "บันทึการผลิต",
+    "downtimeLog": "บันทึกเครื่องจักรหยุด",
+    "maintenanceSummary": "สรุปการบำรุงรักษา",
+    "parameterConfiguration": "การปรับแต่งค่าต่างๆ",
+    "parameterConfigurationMes": "การปรับแต่งค่าต่างๆ",
+    "productionPlanning": "การวางแผนการผลิต",
+    "roadmapManagement": "แผนงาน",
+    "recipeManagement": "องค์ประกอบ",
+    "productManagement": "ชนิดสินค้า",
+    "productionLayout": "แผนผังการผลิต",
+    "productionLayoutMes": "แผนผังการผลิต",
+    "productionLayoutSF": "แผนผังการผลิต",
+    "modelManagement": "โมเดล ML",
+    "materialManagement": "วัตถุดิบ",
+    "reports": "รายงาน",
+    "production": "การผลิต",
+    "maintenance": "ซ่อมบำรุง",
+    "downtime": "เวลาเครื่องจักรหยุด",
+    "quality": "คุณภาพ",
+    "utility": "ยูทิลิตี้",
+    "performance": "ประสิทธิภาพ",
+    "masters": "ข้อมูลมาสเตอร์",
+    "admin": "แอดมินคอนโซล",
+    "search": "ค้นหารายงาน & ข้อมูลเชิงลึก",
+    "searchMobile": "ค้นหา",
+    "insights": "ข้อมูลเชิงลึก",
+    "ngCodeConfiguration": "รหัสของเสีย",
+    "reworkOperation": "งานแก้ไข",
+    "packagingManagement": "บรรจุภัณฑ์",
+    "productionProcess": "กระบวนการผลิต",
+    "formBuilder": "ตัวสร้างแบบฟอร์ม",
+    "eLogbook": "บันทึกอิเล็คทรอนิค",
+    "operator": "ผู้ปฏิบัติงาน",
+    "solution": "รายการตรวจสอบ",
+    "station": "สถานี",
+    "maintenancePlan": "แผนซ่อมบำรุง",
+    "maintenanceTask": "งานซ่อมบำรุง",
+    "cron": "กฎการทำซ้ำ",
+    "machine": "เครื่องจักร",
+    "tpm": "ซ่อมบำรุง",
+    "warehouse": "คลังสินค้า",
+    "manualInbound": "ขาเข้า ด้วยตนเอง",
+    "manualOutbound": "ขาออก ด้วยตนเอง",
+    "stockTaking": "การบันทึกสต็อค",
+    "andon": "อันด้ง",
+    "calibrationApp": "การสอบเทียบ",
+    "poProductionDashboard": "ข้อมูลการผลิตโดยรวม",
+    "poPredictionDashboard": "ข้อมูลการคาดการณ์โดยรวม"
+  },
+  "account": {
+    "account": "บัญชี",
+    "sites": "ไซท์",
+    "profile": "ตั้งค่าโปรไฟล์",
+    "logout": "ออกจากระบบ",
+    "lightMode": "โหมดสว่าง",
+    "darkMode": "โหมดมืด"
+  },
+  "help": {
+    "help": "ช่วยเหลือ",
+    "legal": "กฎหมาย",
+    "version": "เวอร์ชั่น",
+    "keyboardShortcuts": "ทางลัดคีย์บอร์ด",
+    "support": "การสนับสนุน",
+    "terms": "เงื่อนไขการให้บริการ",
+    "privacy": "นโยบายความเป็นส่วนตัว"
+  },
+  "user": {
+    "general": "ทั่วไป",
+    "security": "ความปลอดภัย",
+    "profile": {
+      "heading": "การตั้งค่าโปรไฟล์ของฉัน",
+      "title": "โปรไฟล์",
+      "firstName": "ชื่อจริง",
+      "lastName": "นามสกุล",
+      "email": "อีเมล",
+      "phone": "โทรศัพท์",
+      "reset": "รีเซ็ต",
+      "update": "ปรับปรุงโปรไฟล์"
+    },
+    "preferences": {
+      "title": "การตั้งค่า",
+      "display": "แสดงการตั้งค่า",
+      "avatar": "แสดงอวาตาร์",
+      "language": "ภาษา",
+      "darkMode": "โหมดมืด"
+    },
+    "password": {
+      "title": "รหัส",
+      "newPassword": "รหัสใหม่",
+      "confirmPassword": "ยืนยันรหัส",
+      "update": "ปรับปรุงรหัส"
+    },
+    "auditLog": {
+      "title": "ตรวจสอบ log"
+    }
+  },
+  "cron": {
+    "title": "สร้าง Cron",
+    "generate": "สร้าง",
+    "express": "Cron Express",
+    "sample": "ผลลัพธ์ตัวอย่าง",
+    "from": "จาก",
+    "to": "ถึง",
+    "step": "ค่าเสต็ป",
+    "minute": {
+      "title": "นาที",
+      "every": "นาทีไหนก็ได้",
+      "rangewithstep": "ขอบเขตด้วยขั้นนาที",
+      "assign": "กำหนดนาที"
+    },
+    "hour": {
+      "title": "ชั่วโมง",
+      "every": "ชั่วโมงไหนก็ได้",
+      "rangewithstep": "ขอบเขตด้วยขั้นชั่วโมง",
+      "assign": "กำหนดชั่วโมง"
+    },
+    "day": {
+      "title": "วัน",
+      "every": "วันไหนก็ได้",
+      "rangewithstep": "ขอบเขตด้วยขั้นวัน",
+      "assign": "กำหนดนาที"
+    },
+    "week": {
+      "title": "สัปดาห์",
+      "every": "สัปดาห์ไหนก็ได้",
+      "rangewithstep": "ขอบเขตวันของสัปดาห์",
+      "assign": "กำหนดวันของสัปดาห์"
+    },
+    "month": {
+      "title": "เดือน",
+      "every": "เดือนไหนก็ได้",
+      "rangewithstep": "ขอบเขตด้วยขั้นเดือน",
+      "assign": "กำหนดเดือน"
+    }
+  }
+}

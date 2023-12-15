@@ -1,0 +1,50 @@
+{
+  "maintenance": {
+    "table": {
+      "schemaTypeLabel": "Scheme Type",
+      "schemaType": "Scheme Type",
+      "schemaCode": "Scheme Code",
+      "schemaName": "Scheme Name",
+      "schemaDesc": "Scheme Description",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "checkItem": "Check Item",
+      "checkItemDescription": "Check Item Description",
+      "checkItemType": "Type",
+      "upperLimit": "Upper Limit",
+      "lowerLimit": "Lower Limit",
+      "relatedBom": "Related Components",
+      "isRequired": "Required",
+      "typeName": "Scheme Type Name",
+      "active": "Enable"
+    },
+    "tab": {
+      "detail": "Scheme Details",
+      "attachment": "Attachments"
+    },
+    "btn": {
+      "addAttachment": "Add Attachment"
+    },
+    "dialog": {
+      "addMaintenance": "Add Maintenance Scheme",
+      "editMaintenance": "Edit Maintenance Scheme",
+      "addMaintenanceDetail": "Add Maintenance Scheme Details",
+      "editMaintenanceDetail": "Edit Maintenance Scheme Details",
+      "addMaintenanceType": "Add Maintenance Scheme Type",
+      "editMaintenanceType": "Edit Maintenance Scheme Type",
+      "maintenanceEnableConfirm": "This scheme will be enabled. Continue?",
+      "maintenanceDisableConfirm": "This scheme will be disabled. Continue?",
+      "detailRequiredConfirm": "Changing the required status. Continue?"
+    },
+    "label": {
+      "quantify": "Quantitative",
+      "qualitative": "Qualitative",
+      "isRequired": "Required",
+      "upperLimit": "Theoretical Upper Limit",
+      "lowerLimit": "Theoretical Lower Limit",
+      "showMaintenancePart": "View Maintenance Parts",
+      "showMainPart": "View Key Components",
+      "searchPart": "Search Components"
+    }
+  }
+}

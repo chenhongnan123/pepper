@@ -1,0 +1,30 @@
+{
+  "errorRepair": {
+    "table": {
+      "no": "No.",
+      "status": "Status",
+      "name": "Task Name",
+      "description": "Fault Phenomenon",
+      "defectCode": "Alarm Code",
+      "reportPosition": "Fault Location",
+      "createByName": "Reporter",
+      "createTime": "Report Time",
+      "processByName": "Processor",
+      "processTime": "Processing Time",
+      "action": "Action"
+    },
+    "dialog": {
+      "addErrorRepair": "Add Fault Report",
+      "editErrorRepair": "Process Fault Report",
+      "planTimeEmpty": "Please fill in the planned start time and planned end time.",
+      "planEndTimeEarlier": "Planned end time cannot be earlier than planned start time."
+    },
+    "label": {
+      "status": "Processing Status",
+      "all": "All",
+      "DEL": "Cancel, Do Not Process for Now",
+      "CREATE_TASK": "Generate Maintenance Task",
+      "errorCode": "Alarm Code"
+    }
+  }
+}

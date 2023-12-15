@@ -1,0 +1,37 @@
+{
+  "machineTransfer": {
+    "table": {
+      "no": "序号",
+      "deviceId": "设备id",
+      "typeId": "设备类型id",
+      "transferId": "流转id",
+      "deviceName": "设备名称",
+      "deviceNumber": "设备编号",
+      "sourceDeviceName": "来源设备名称",
+      "sourceDeviceNumber": "来源设备编号",
+      "targetDeviceName": "目标设备名称",
+      "targetDeviceNumber": "目标设备编号",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载",
+      "reduce": "移除",
+      "load": "加载",
+      "saveexit": "保存并退出",
+      "save": "保存"
+    },
+    "dialog": {
+      "ignorerecord": "提示：以下条目已存在，已自动忽略。"
+    },
+    "label": {
+      "sourceDeviceType": "来源设备类型",
+      "targetDeviceType": "目标设备类型",
+      "machineTransferList": "设备流转清单",
+      "devicetypedropdown": "设备类型"
+    }
+  }
+}

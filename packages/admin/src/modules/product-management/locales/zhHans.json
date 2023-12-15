@@ -1,0 +1,23 @@
+{
+  "productManagement": {
+    "table": {
+      "no": "序号",
+      "productId": "产品id",
+      "productNumber": "产品编号",
+      "productName": "产品名称",
+      "productModel": "型号",
+      "productionPriority": "生成优先级",
+      "productDesc": "描述",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

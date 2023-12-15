@@ -1,0 +1,24 @@
+{
+  "onlineUser": {
+    "table": {
+      "no":"No",
+      "tokenId": "会话编号",
+      "userName": "登录名称",
+      "ipaddr": "主机",
+      "loginTime": "登录时间",
+      "browser": "浏览器",
+      "loginLocation": "登录地点",
+      "action": "操作"
+    },
+    "dialog": {
+      "refundtip": "系统提示",
+      "refund": "是否强退已选中用户"
+    },
+    "btn": {
+      "refund": "强退"
+    },
+    "verification": {
+      "dictTypeError": "以字母开头，且只能为小写字母，数字，下滑线"
+    }
+  }
+}

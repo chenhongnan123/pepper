@@ -1,0 +1,130 @@
+*::-webkit-scrollbar {
+border-radius: 10px;
+width: 0!important;
+height: 6px;
+background-color: #f5f5f5;
+}
+*::-webkit-scrollbar-track {
+box-shadow: inset 0 0 6px rgba(128, 128, 128, 0.7);
+border-radius: 10px;
+background-color: #f5f5f5;
+}
+*::-webkit-scrollbar-thumb {
+border-radius: 10px;
+box-shadow: inset 0 0 6px rgba(128, 128, 128, 0.7);
+background-color: rgb(149, 147, 147);
+}
+*::-webkit-scrollbar:hover {
+border-radius: 10px;
+width: 0!important;
+height: 10px;
+background-color: #f5f5f5;
+}
+*:hover::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+}
+.extensionv2 .v-toolbar__extension{
+  height: 100px;
+  display: block;
+  padding: 0;
+}
+.noborder th{
+  border-bottom: unset!important;
+}
+.mdi-filter{
+font-size: 16px!important;
+}
+input[type="date"]{
+  position: relative;
+}
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  opacity:0;
+  width: 45px;
+  height: 35px;
+  position: relative;
+  z-index:1;
+}
+input[type="datetime-local"]::after{
+  content: '';
+  position: absolute;
+  right: 19px;
+  top: 5px;
+  width: 22px;
+  height: 22px;
+  background: url('../icons/img/schedule-light.png');
+}
+.theme--light input[type="datetime-local"]::after{
+  background: url('../icons/img/schedule-light.png');
+}
+.theme--dark input[type="datetime-local"]::after{
+  background: url('../icons/img/schedule-dark.png');
+}
+.v-autocomplete__content .v-list-item__title, .v-autocomplete__content .v-list-item .v-list-item__subtitle {
+  line-height: 1.3 !important;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+  opacity:0;
+  width: 45px;
+  height: 35px;
+  position: relative;
+  z-index:1;
+}
+input[type="date"]::after{
+  content: '';
+  position: absolute;
+  right: 19px;
+  top: 5px;
+  width: 22px;
+  height: 22px;
+  background: url('../icons/img/schedule-light.png');
+}
+.theme--light input[type="date"]::after{
+  background: url('../icons/img/schedule-light.png');
+}
+.theme--dark input[type="date"]::after{
+  background: url('../icons/img/schedule-dark.png');
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+  width: 45px;
+  height: 35px;
+  position: relative;
+  z-index:1;
+}
+input[type="time"]::after{
+  content: '';
+  position: absolute;
+  right: 19px;
+  top: 5px;
+  width: 22px;
+  height: 22px;
+  background: url('../icons/img/time-light.png');
+}
+.theme--light input[type="time"]::after{
+  background: url('../icons/img/time-light.png');
+}
+.theme--dark input[type="time"]::after{
+  background: url('../icons/img/time-dark.png');
+}
+
+/* 定义健康的颜色显示 */
+:root {
+  --healthy-bg-color: rgba(76, 178, 28, 1);
+  --lessHealthy-bg-color: rgba(176, 203, 13, 1);
+  --subHealthy-bg-color: rgba(255, 255, 0, 0.5);
+  --alertHealthy-bg-color: rgba(255, 152, 0, 0.5);
+  --faultHealthy-bg-color: rgba(217, 0, 27, 0.5);
+
+  --healthy-text-color: rgba(5,96,42,1);
+  --lessHealthy-text-color: rgba(74, 121, 2, 1);
+  --subHealthy-text-color: rgba(203, 207, 8, 1);
+  --alertHealthy-text-color: rgba(255,152,0,1);
+  --faultHealthy-text-color: rgba(211, 6, 31,1);
+
+  --healthy-block-color: rgba(76, 178, 28, 1);
+  --lessHealthy-block-color: rgba(164, 186, 30, 1);
+  --subHealthy-block-color: rgba(217, 222, 14, 1);
+  --alertHealthy-block-color: rgba(217, 125, 16, 1);
+  --faultHealthy-block-color: rgba(201, 14, 36, 1);
+}

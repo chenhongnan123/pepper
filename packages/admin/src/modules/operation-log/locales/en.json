@@ -1,0 +1,51 @@
+{
+  "operationLog": {
+    "module": {
+      "operationLog": "Operation Log",
+      "operationLogDetail": "Operation Log Details"
+    },
+    "dialog": {
+      "tip": "Tip",
+      "confirmClean": "Are you sure you want to clear all operation log data?"
+    },
+    "btn": {
+      "detail": "Details"
+    },
+    "label": {
+      "systemModule": "Operation Module",
+      "requestUrl": "Request URL",
+      "loginInfo": "Login Information",
+      "requestMethod": "Request Method",
+      "operationMethod": "Operation Method",
+      "requestParams": "Request Parameters",
+      "returnParams": "Return Parameters",
+      "status": "Operation Status",
+      "success": "Success",
+      "error": "Error",
+      "operationTime": "Operation Time",
+      "errorMsg": "Error Message",
+      "other": "Other",
+      "add": "Add",
+      "edit": "Edit",
+      "delete": "Delete",
+      "auth": "Authorize",
+      "export": "Export",
+      "import": "Import",
+      "exit": "Force Logout",
+      "generating": "Generate Code",
+      "clean": "Clear Data"
+    },
+    "table": {
+      "no": "No.",
+      "systemModule": "Operation Module",
+      "operationType": "Operation Type",
+      "operatorName": "Operator",
+      "department": "Department",
+      "ip": "Host",
+      "operationPosition": "Operation Location",
+      "status": "Operation Status",
+      "operationTime": "Operation Time",
+      "action": "Action"
+    }
+  }
+}

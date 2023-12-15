@@ -1,0 +1,88 @@
+{
+  "alarmConfiguration": {
+    "label": {
+      "deviceAlarm": "Device Alarm",
+      "paramMonitorAlarm": "Parameter Monitoring Alarm",
+      "spcAlarm": "SPC Alarm"
+    },
+    "dialog": {
+      "addDeviceAlarm": "Add Alarm Code",
+      "editDeviceAlarm": "Edit Alarm Code",
+      "alarmNumber": "Alarm Code Number",
+      "alarmName": "Alarm Code Name",
+      "description": "Description",
+      "component": "Component",
+      "alarmType": "Alarm Code Type",
+      "active": "Active",
+      "inactive": "Inactive",
+      "addParamMonitorAlarm": "Add Parameter Monitoring",
+      "editParamMonitorAlarm": "Edit Parameter Monitoring",
+      "eventNumber": "Event Number",
+      "eventName": "Event Name",
+      "eventDesc": "Event Description",
+      "parameterName": "Parameter Name",
+      "triggerCondition": "Trigger Condition",
+      "upperLimit": "Upper Limit",
+      "lowerLimit": "Lower Limit",
+      "upperLimitWarnValue": "Upper Limit Warning Value",
+      "lowerLimitWarnValue": "Lower Limit Warning Value",
+      "warnValue": "Warning Value",
+      "triggerNumber": "Trigger Before Count",
+      "dashboardShow": "Show on Dashboard",
+      "dashboardPosition": "Dashboard Position",
+      "addSPCAlarm": "Add SPC Alarm",
+      "editSPCAlarm": "Edit SPC Alarm",
+      "algorithm": "Algorithm",
+      "deleterecord": "Delete Record",
+      "deleterecordconfirm": "Are you sure you want to delete the selected record?"
+    },
+    "table": {
+      "no": "No.",
+      "alarmNumber": "Alarm Code Number",
+      "alarmName": "Alarm Code Name",
+      "eventNumber": "Event Number",
+      "eventName": "Event Name",
+      "description": "Description",
+      "componentNumber": "Component Number",
+      "componentName": "Component Name",
+      "categoryName": "Alarm Type",
+      "isDashboardShow": "Show on Dashboard",
+      "dashboardPosition": "Dashboard Position",
+      "communicationMode": "Communication Mode",
+      "parameterName": "Parameter Name",
+      "algorithm": "Algorithm",
+      "triggerCondition": "Trigger Condition",
+      "triggerNumber": "Trigger Before Count",
+      "upperLimit": "Upper Limit",
+      "lowerLimit": "Lower Limit",
+      "upperLimitWarnValue": "Upper Limit Warning Value",
+      "lowerLimitWarnValue": "Lower Limit Warning Value",
+      "warnValue": "Warning Value",
+      "status": "Status",
+      "active": "Active",
+      "inactive": "Inactive",
+      "createBy": "Created By",
+      "CREATION_DATE": "Creation Date",
+      "updateTime": "Modified Time",
+      "updateBy": "Modified By"
+    },
+    "fileName": {
+      "deviceAlarmSampleFile": "Device Alarm Template",
+      "paramMonitorAlarmSampleFile": "Parameter Monitoring Alarm Template",
+      "spcAlarmSampleFile": "SPC Alarm Template",
+      "deviceAlarmExportFile": "Device Alarm",
+      "paramMonitorAlarmExportFile": "Parameter Monitoring Alarm",
+      "spcAlarmExportFile": "SPC Alarm"
+    },
+    "settingTable": {
+      "no": "No.",
+      "dataTypeNum": "Alarm Type Number",
+      "dataTypeName": "Alarm Type Name",
+      "dataTypeDesc": "Alarm Type Description",
+      "enabledFlag": "System Lock"
+    },
+    "alarmTypeSetting": {
+      "title": "Alarm Types"
+    }
+  }
+}

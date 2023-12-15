@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="108px" height="78px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="49" y1="0" x2="49" y2="68" id="LinearGradient1241">
+      <stop id="Stop1242" stop-color="#308e99" offset="0" />
+      <stop id="Stop1243" stop-color="#141919" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip1244">
+      <path d="M 0.21850613154958864 68  L 0 11.15686274510017  L 9.00000000000216 0  L 98 0  L 98 57.82352941176532  L 88.60784313725412 68  L 0.21850613154958864 68  Z " fill-rule="evenodd" />
+    </mask>
+    <filter x="369px" y="1036px" width="108px" height="78px" filterUnits="userSpaceOnUse" id="filter1245">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.34901960784313724 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget1246">
+      <path d="M 0.21850613154958864 68  L 0 11.15686274510017  L 9.00000000000216 0  L 98 0  L 98 57.82352941176532  L 88.60784313725412 68  L 0.21850613154958864 68  Z " fill-rule="nonzero" fill="url(#LinearGradient1241)" stroke="none" transform="matrix(1 0 0 1 369 1036 )" />
+      <path d="M 0.21850613154958864 68  L 0 11.15686274510017  L 9.00000000000216 0  L 98 0  L 98 57.82352941176532  L 88.60784313725412 68  L 0.21850613154958864 68  Z " stroke-width="2" stroke="#797979" fill="none" stroke-opacity="0.4980392156862745" transform="matrix(1 0 0 1 369 1036 )" mask="url(#clip1244)" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -369 -1036 )">
+    <use xlink:href="#widget1246" filter="url(#filter1245)" />
+    <use xlink:href="#widget1246" />
+  </g>
+</svg>

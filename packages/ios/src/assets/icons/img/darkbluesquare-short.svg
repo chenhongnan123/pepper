@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="102px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip1714">
+      <path d="M 0 12.73267650604248  L 10.977821938943544 0  L 102 0  L 102 21.78176498413086  L 90.6399456254588 35  L 0 35  L 0 12.73267650604248  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -548 -537 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="102" height="35" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAAjCAYAAABmSn+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAANgSURBVGhD7Zq/axRREMdn9tfdmk24QsHCQsRCQawsIwERNfgDCwM2dmJlrJNKxCZCOiXEwoCVhYXBJkIKSZXiUgr+AykEGzkvl9vbH8+Z93ZP1niaYrN7xXzg3R65vSvuczPfeY8gHJKpy08eqzR5iSoBUIr+QktfhdJQqf5aIR7AocQEVxbvYhq+hzhyMA7pzSQnpQ/RnyKUBv3QkZZKov+L8WdfXLLSvc8YhQFGPcCoD8BvTGPxUjZcMfSlqiT+txj/xtIpB8K2GvRO4qAHQIvlQJIYMYzIKRH6MjkeSNBIMSfmXgX7+z+2cRBegP5PwH6HxOyDFkRidDuTjCkVzH/l3NLMsz+YeeoEk40NCHtXcbAHGHZBy4koXzhjKF9QMqZ8MBcDYJtnRSYuXn9tJYN7GGZS+KorJQSMqf8NqyWXI6uUpduYeW7RY4HgztICVcZDLYOWvurApxGOWxjL4PeaB+GIKLSyiZtL91FF77hKkFqXyRaqGJ6rSYyZs0VIFQzFBLeeT0MUbZKE5lAMT2EhLZ7AhuOxiKkCnTFT1xbOgrI3MO63dJawmKyFIe1ZhjtSkVIZdjDz6DjEuEnj72muEBP0NBZzrqS8X8mDXqRUiWUN1AeMw3PcsgqVonOF25dIqQOLNo3TLEQHfUiVEpsJzJyF5eOwUDUsxlQJVwsft+SVosdikVIXltnNU4VEtPThJGeKSKkbS2cJyeHj/N8TmEipG0sfRuosYSF0ESljAYkhEfmSoB8bDpyVCXXDhzEoYsYHIyS/iJixgIWwDRuU7YKyvFjE1E4mBSnubRuAxTjuvIipFRZCl6xSwPFBef5y5+vHVRFTJyyFK8VySIpHUprrndb5RX5JxNSFbl9cKSTFbUDq+juNqdYD2Hqm//1IxNSBloJZpngkxdtN3Nbt71sr3ewOEVM9OlRM+7KpUjy/mzaPzfbaK9/M6wYRUylcKUBSqFJIjHK8GN2Jub3ttS/ZDUNETGWY9sUTmAl6H9JGMN9pv/mU3VBAxFSCqRSwTAtTrkeB31zuttdWzesHETFVwFJ0rtBexW3yfmW9E5zRY/EoRMyRo0tFVwvv6sFp7DQmJ4dj8ShETBXwaKw3kvZu5HqFsXgUIuao4YKhpQC7iWXTWPy2MBb/HYBfuczqlIWQ6rcAAAAASUVORK5CYII=" x="0px" y="0px" transform="matrix(1 0 0 1 548 537 )" />
+    <path d="M 0 12.73267650604248  L 10.977821938943544 0  L 102 0  L 102 21.78176498413086  L 90.6399456254588 35  L 0 35  L 0 12.73267650604248  Z " stroke-width="2" stroke="#1565a4" fill="none" transform="matrix(1 0 0 1 548 537 )" mask="url(#clip1714)" />
+  </g>
+</svg>

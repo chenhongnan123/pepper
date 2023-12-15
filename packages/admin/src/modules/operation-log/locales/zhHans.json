@@ -1,0 +1,51 @@
+{
+  "operationLog": {
+    "module": {
+      "operationLog": "操作日志",
+      "operationLogDetail": "操作日志详情"
+    },
+    "dialog": {
+      "tip": "提示",
+      "confirmClean": "是否确认清空所有操作日志数据？"
+    },
+    "btn": {
+      "detail": "详情"
+    },
+    "label": {
+      "systemModule": "操作模块",
+      "requestUrl": "请求地址",
+      "loginInfo": "登录信息",
+      "requestMethod": "请求方式",
+      "operationMethod": "操作方法",
+      "requestParams": "请求参数",
+      "returnParams": "返回参数",
+      "status": "操作状态",
+      "success": "成功",
+      "error": "失败",
+      "operationTime": "操作时间",
+      "errorMsg": "异常信息",
+      "other": "其他",
+      "add": "新增",
+      "edit": "修改",
+      "delete": "删除",
+      "auth": "授权",
+      "export": "导出",
+      "import": "导入",
+      "exit": "强退",
+      "generating": "生产代码",
+      "clean": "清空数据"
+    },
+    "table": {
+      "no": "序号",
+      "systemModule": "操作模块",
+      "operationType":"操作类型",
+      "operatorName":"操作人",
+      "department": "部门",
+      "ip": "主机",
+      "operationPosition": "操作地点",
+      "status": "操作状态",
+      "operationTime": "操作时间",
+      "action":"操作"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "machineBom": {
+    "title": {
+      "devicePhoto": "Machine Photo",
+      "deviceInfo": "Machine Information",
+      "deviceAttachment": "Attachment",
+      "machineBom": "Machine BOM"
+    },
+    "btn": {
+      "viewDetail": "View Machine BOM",
+      "fileType": "File Type"
+    },
+    "label": {
+      "headPortraitName": "Machine Photo",
+      "deviceCode": "Machine Code",
+      "deviceName": "Machine Name",
+      "description": "Machine Description",
+      "deviceSpec": "Machine Type",
+      "deviceType": "Machine Type",
+      "startDate": "Start Date",
+      "remark": "Remark",
+      "searchComponent": "Search Part",
+      "productCode": "Code",
+      "productName": "Name",
+      "productDescription": "Description",
+      "modelid": "Model ID",
+      "notrelatedmodelid": "Unrelated Model ID",
+      "layoutNumber": "Layout Number",
+      "layoutName": "Layout Name",
+      "bomCode": "Code",
+      "bomName": "Name",
+      "bomDescription": "Description",
+      "hasCamera": "Camera",
+      "cameraParameter": "Camera Setting",
+      "cameraIp": "IP",
+      "cameraPort": "Port",
+      "cameraThoroughfare": "Channel",
+      "cameraAccount": "Account",
+      "cameraPassword": "Password"
+    },
+    "table": {
+      "no": "No.",
+      "bomName": "BOM Name",
+      "productCode": "Part Code",
+      "productName": "Part Name",
+      "description": "Part Description",
+      "productType": "Part Type",
+      "productNumber": "Part Quantity",
+      "positionNum": "Position Number",
+      "elecSymbol": "Electrical Symbol",
+      "isKeyPart": "Is Key Part",
+      "isMaintenance": "Maintenance",
+      "isBackup": "Is Spare",
+      "restLife": "Part Life (h/times)",
+      "warnPercent": "Warning Percentage",
+      "updatedName": "Modified By",
+      "updateTime": "Modified Time"
+    },
+    "dialog": {
+      "addAttachment": "Add File",
+      "addBomFirst": "Add BOM (First Level)",
+      "editBomFirst": "Edit BOM (First Level)",
+      "relateModel": "Associate Model",
+      "addBom": "Add BOM",
+      "editBom": "Edit BOM",
+      "productCode": "Part Code",
+      "productName": "Part Name",
+      "description": "Part Description",
+      "productType": "Part Type",
+      "productNumber": "Part Quantity",
+      "positionNum": "Position Number",
+      "elecSymbol": "Electrical Symbol",
+      "isKeyPart": "Is Key Part",
+      "isMaintenance": "Maintenance",
+      "isBackup": "Is Spare",
+      "lifeType": "Life Type",
+      "restLife": "Life(h/time)",
+      "countParameter": "Parameters",
+      "warnPercent": "Warning Percentage(%)"
+    },
+    "fileName": {
+      "sampleFileName": "Machine BOM Template",
+      "exportFileName": "Machine BOM"
+    }
+  }
+}

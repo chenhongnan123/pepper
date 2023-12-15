@@ -1,0 +1,41 @@
+{
+  "spotCheckPlan": {
+    "table": {
+      "no": "序号",
+      "checkId": "点检方案id",
+      "typeId": "设备类型id",
+      "deviceId": "设备id",
+      "checkDetailId": "点检详情id",
+      "checkName": "点检方案名称",
+      "spotCheckFrequency": "点检频率（分钟）",
+      "deviceNumber": "设备编号",
+      "deviceName": "设备名称",
+      "typeNumber": "设备类型编号",
+      "typeName": "设备类型",
+      "checkDetailName": "点检项目名称",
+      "parameterTag": "参数名称",
+      "upperLimit": "上限",
+      "lowerLimit": "下限",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "remark": "备注",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "label": {
+      "device": "设备"
+    },
+    "dialog": {
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "verification": {
+      "limitError": "请输入数字"
+    },
+    "message": {
+      "error": "下限大于上限！"
+    }
+  }
+}

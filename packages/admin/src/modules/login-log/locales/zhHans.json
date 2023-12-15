@@ -1,0 +1,17 @@
+{
+  "loginLog": {
+    "table": {
+      "index": "序号",
+      "tabletLogin": "终端",
+      "userName": "用户名称",
+      "ipAddress": "登录地址",
+      "status": "登录状态",
+      "description": "描述",
+      "accessTime": "登录时间"
+    },
+    "dialog": {
+      "tip": "提示",
+      "confirmClean": "是否确认清空所有操作日志数据？"
+    }
+  }
+}

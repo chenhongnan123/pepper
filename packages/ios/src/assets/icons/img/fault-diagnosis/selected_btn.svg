@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="119px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip1965">
+      <path d="M 0 12.73267650604248  L 7.987490331910326 0  L 119 0  L 119 21.78176498413086  L 111.07253589803948 35  L 0 35  L 0 12.73267650604248  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -322 -4814 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="119" height="35" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAjCAYAAACuJpVrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMJSURBVHhe7Zm7bhQxFIbP8cxsks1AaOiCxANQUEYCKT0EQcFD0KCARLNVxEUKEgUFHWxPifIIEQURFwlEwUukyGXYy9zMfzzeTVZR0rIenU9xRorX1Zff/j3LdAHp7c0HTNUnthVRXRNZ62cmT2W+8F6qisTZuXKvrm+lI5P9oTJf5arAAowaiy0kX/gvofw/RC4T16UL47ma0jsv31IxeML5kDgfEZUjLJL0YijzyWRnFUfnJXfp3qu1qMg/8yiLMYgKyJWBRW6Lthrd+cXvruCspfWteDmNviGxN3l4RGZwRLZAep1cESuL/WeVuYKnYprnGbndjdfPzDh7wzkSC7k8OobYMXE59mLV7NzCs25m5K7c375eFuVvMzxMJbU0zpxcKVOuVLm1KjcUjH86ynH+jothSihRJFuxpBXNqylS8gkVGxJTuendFw+5yjekHYtYV6DKHImVcxZDxQZHJL9W1jevWIp3kNrLzdVngHMWgmtsx06sEiIuuTVH21Tlq9KIuRjI/oxzdpJaJFZLVJDwpVuP1piiL5bRrcZ/iWVArkuu3JfkvFWCxHBRfJDz1W3HkxKF1DZvOTSxIWNQnm4QzljKkVjcZ5trj27HbcA0iUWBkpYs23FVQqqXqwSNkesOlfKtjxQoETu50yqhY9jdZWXIG6hJYtVuG8BVyBcnN+RPKrYtmBOxIlXFtomZd8tKm2CV2z7kiz4M/KjcNiFvGY2MiCwnpcptCyLWDdSoKCKKo77KbQNerDUxxHYgdnGfFuKeym0NUAm5FHeoShZ7h792DlRu8EhqccbinBWxNl7cy35+7MuMyg0aEUsoT01qbbxAttN96idVbtBArFMYebFxp3/8tb/n5oDKDRl39ZHUJkRJcmCXF3p+xqFyQ8U1ZDlrE7KJNOSlXrb7ft/POlRuiEyvPihRzZb8/ah7zZWo06jcIJHDFiNCanHWUtR5TLvPy2buBJUbHI1Yl9rmXjtTok6jckPE+WWqmQ9qXpopUadRuaHhxco7ZGbuZT9mS9QJRP8AeCVaxVntO6EAAAAASUVORK5CYII=" x="0px" y="0px" transform="matrix(1 0 0 1 322 4814 )" />
+    <path d="M 0 12.73267650604248  L 7.987490331910326 0  L 119 0  L 119 21.78176498413086  L 111.07253589803948 35  L 0 35  L 0 12.73267650604248  Z " stroke-width="2" stroke="#1565a4" fill="none" transform="matrix(1 0 0 1 322 4814 )" mask="url(#clip1965)" />
+  </g>
+</svg>

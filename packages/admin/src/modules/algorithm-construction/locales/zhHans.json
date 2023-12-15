@@ -1,0 +1,43 @@
+{
+  "algorithmConstruction": {
+    "table": {
+      "status": "状态",
+      "name": "事件名称",
+      "description": "描述",
+      "parentBomName": "父级BOM名称",
+      "bomName": "层级名称",
+      "productName": "部件名称",
+      "algorithmType": "算法类型",
+      "lastUpdateByName": "修改人",
+      "lastUpdateDate": "修改时间"
+    },
+    "label": {
+      "data": "数据",
+      "params": "入参",
+      "column": "列名",
+      "paramsName": "入参名"
+    },
+    "btn": {
+      "run": "试运行"
+    },
+    "dialog": {
+      "eventEnableConfirm": "确认要启用该算法模型吗？",
+      "eventDisableConfirm": "确认要禁用该算法模型吗?",
+      "addEvent": "新增",
+      "editEvent": "编辑",
+      "searchPart": "搜索零部件",
+      "standard": "标准算法",
+      "custom": "定制算法",
+      "step": "步骤",
+      "content": "内容",
+      "status": "状态",
+      "steplist": {
+        "0": "配置文件解析",
+        "1": "上载Docker镜像",
+        "2": "创建容器",
+        "3": "启动容器",
+        "4": "接口验证"
+      }
+    }
+  }
+}

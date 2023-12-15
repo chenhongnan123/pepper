@@ -1,0 +1,95 @@
+{
+  "connectionConfiguration": {
+    "btn": {
+      "collectionMonitor": "采集监控",
+      "syncParams": "同步参数"
+    },
+    "dialog": {
+      "connectioninfo": "新增通讯",
+      "editconnectioninfo": "编辑通讯",
+      "connectionparameter": "通讯设置",
+      "deleterecord": "删除记录",
+      "deleterecordconfirm": "确定要删除选中记录吗?",
+      "addparameter": "新增参数",
+      "editparameter": "修改参数",
+      "selectprotocol": "选择协议",
+      "collectionMonitor": "采集监控",
+      "syncParams": "同步参数",
+      "ignore": "以下参数已存在！"
+    },
+    "table": {
+      "number": "No.",
+      "deviceCode": "通讯编号",
+      "deviceName": "通讯名称",
+      "deviceDesc": "通讯描述",
+      "deviceCommunicateType": "通讯类型",
+      "connectionAddress": "通讯地址",
+      "deviceIp": "IP",
+      "devicePort": "端口号",
+      "deviceArea": "机架号",
+      "deviceSlot": "站点",
+      "opcuaUrl": "节点Url",
+      "endpoint": "后缀",
+      "active": "启用",
+      "inactive": "禁用",
+      "updateTime": "修改时间",
+      "updateBy": "修改人",
+      "timeout": "采集频率",
+      "timeoutName": "设定值",
+      "prefix": "类名",
+      "onlineStatus": "数据采集状态",
+      "online": "在线",
+      "offline": "离线"
+    },
+    "parameterTable": {
+      "monitor": "监控",
+      "no": "No.",
+      "parameterNumber": "参数编号",
+      "parameterName": "参数名称",
+      "parameterDescription": "参数描述",
+      "paramsTypeName": "参数类型",
+      "parameterDataType": "数据类型",
+      "dbAddress": "数据块地址",
+      "startAddress": "起始地址",
+      "size": "长度",
+      "bitNumber": "字节偏移量",
+      "maxDecimal": "最大进制",
+      "moniEnabled": "是否状态监测",
+      "namespace": "空间名称",
+      "identifierLabel": "标识符",
+      "upLimit": "上限值",
+      "downLimit": "下限值",
+      "upLimitRate": "上限浮动比例",
+      "downLimitRate": "下限浮动比例",
+      "statusMonitor": "状态监测",
+      "chartCodeName": "图表类型",
+      "uom": "单位",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "product": "零件",
+      "productName": "零件名称",
+      "status": "是否可用",
+      "ethernetName": "PLC参数名称",
+      "mcAddress": "地址",
+      "modbusStartAddress": "起始地址"
+    },
+    "fileName": {
+      "sampleFileName": "通讯参数模板",
+      "exportFileName": "通讯参数"
+    },
+    "settingTable": {
+      "no": "No.",
+      "dictValue": "编号",
+      "dataTypeLen": "节点",
+      "dictLabel": "名称",
+      "remark": "描述",
+      "enabledFlag": "系统锁定"
+    },
+    "parameterTypeSetting": {
+      "title": "参数类型"
+    },
+    "dataTypeSetting": {
+      "title": "数据类型"
+    }
+  }
+}

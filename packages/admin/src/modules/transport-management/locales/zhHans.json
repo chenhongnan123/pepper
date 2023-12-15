@@ -1,0 +1,28 @@
+{
+  "transportManagement": {
+    "table": {
+      "no": "序号",
+      "transportId": "行车id",
+      "transportNumber": "行车编号",
+      "transportName": "行车名称",
+      "workshopName": "所属车间",
+      "onlineStatus": "数据采集状态",
+      "parameterName": "参数名称",
+      "parameterNumber": "标签",
+      "categoryName": "参数类型",
+      "categoryNumber": "参数类型 ",
+      "parameterValue": "参数值",
+      "transportDesc": "描述",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "positionManagement": {
+    "dialog": {
+      "addPosition": "新增岗位",
+      "editPosition": "编辑岗位",
+      "postEnabledConfirm":"确认要启用该岗位吗？",
+      "postDisabledConfirm":"确认要停用该岗位吗？"
+    },
+    "label": {
+      "positionNumber": "岗位编号",
+      "positionName": "岗位名称",
+      "sortNum": "显示顺序",
+      "status": "岗位状态",
+      "active": "启用",
+      "inactive": "停用",
+      "remark": "备注"
+    },
+    "table": {
+      "number": "序号",
+      "positionNumber": "岗位编号",
+      "positionName": "岗位名称",
+      "sortNum": "显示顺序",
+      "status": "状态",
+      "createdBy": "创建人",
+      "creationTime": "创建时间",
+      "action": "操作"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "user": {
+    "profile": {
+      "title": "Profile",
+      "avatar": "Avatar Settings",
+      "personalInfo": "Personal Information",
+      "account": "Login Account",
+      "createTime": "Creation Time",
+      "userName": "User Name",
+      "remark": "Remark",
+      "dingtalkId": "DingTalk ID",
+      "wechatPublicId": "WeChat Public ID",
+      "wechatEnterpiriseId": "Enterprise WeChat ID",
+      "userType": "Role Type",
+      "organization": "Organization",
+      "company": "Company",
+      "factory": "Factory",
+      "department": "Department",
+      "position": "Position",
+      "role": "Role",
+      "profile": "Basic Information",
+      "lastname": "Last Name",
+      "firstname": "First Name",
+      "email": "Email",
+      "telephone": "Phone Number",
+      "sex": "Gender",
+      "updateArchive": "Update Profile"
+    },
+    "preferences": {
+      "title": "Display Settings",
+      "language": "Language",
+      "displayMode": "Display Mode",
+      "darkMode": "Dark Mode",
+      "lightMode": "Light Mode",
+      "password": "Password Settings",
+      "timeout": "Login Timeout",
+      "passwordLength": "Password Length",
+      "complexity": "Password Complexity",
+      "hour": "Hours"
+    },
+    "password": {
+      "title": "Password",
+      "oldPassword": "Old Password",
+      "newPassword": "New Password",
+      "updatePassword": "Update Password"
+    },
+    "session": {
+      "title": "Session Records",
+      "tips": "The following is a list of devices that have logged into this account. If you find devices you don't recognize, please pay attention to the security of your account.",
+      "curSession": "Current Login",
+      "ip": "IP Address",
+      "container": "Environment",
+      "signedIn": "Login Time",
+      "accessRecords": "Access Records"
+    }
+  }
+}

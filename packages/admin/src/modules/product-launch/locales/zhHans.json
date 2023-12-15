@@ -1,0 +1,20 @@
+{
+  "productLaunch": {
+    "label": {
+      "productInfo": "产品信息",
+      "position": "目标位置",
+      "dispatchNumber": "派工单号",
+      "lightRodNumber": "光棒编号",
+      "coreNumber": "棒芯编号",
+      "handleNumber": "手柄编号",
+      "productNumber": "产品编码",
+      "deviceNumber": "设备编号"
+    },
+    "btn": {
+      "launch": "上架"
+    },
+    "dialog": {
+      "scan": "扫码"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "alarmRecords": {
+    "module": {
+      "alarmRecords": "报警记录",
+      "alarmRecordsDetail": "报警记录详情"
+    },
+    "table": {
+      "no": "序号",
+      "deviceName": "设备名称",
+      "alarmType": "报警类型",
+      "alarmContent": "报警内容",
+      "createTime": "报警时间"
+    },
+    "fileName": {
+      "alarmRecords": "报警记录"
+    }
+  }
+}

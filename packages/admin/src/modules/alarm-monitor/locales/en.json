@@ -1,0 +1,69 @@
+{
+  "alarmMonitor": {
+    "table": {
+      "no": "No.",
+      "alarmStatus": "Alarm Status",
+      "alarmStartTimestamp": "Alarm Start Time",
+      "alarmEndTimestamp": "Alarm End Time",
+      "bomName": "Hierarchy Name",
+      "bomParentName": "Hierarchy Name",
+      "partName": "Part Name",
+      "alarmlocation": "Fault Location",
+      "expertiseType": "Expertise Type",
+      "alarmCode": "Alarm Code",
+      "alarmName": "Alarm Content",
+      "videoPath": "Alarm Video (CCTV)",
+      "expertise": "Expertise",
+      "expertiseName": "Expertise Name",
+      "expertiseNumber": "Expertise Number",
+      "createBy": "Created By",
+      "createTime": "Created Time",
+      "recordTimestamp": "Timestamp",
+      "monitorLoadingStatus": "Status",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Template Download",
+      "getmorevideo": "Get More Videos",
+      "download": "Download",
+      "obtain": "Obtain",
+      "redownload": "Reload",
+      "loading": "Loading",
+      "loadsuccess": "Load Successful",
+      "loadfail": "Load Failed",
+      "viewAllExperiences": "View All Expertise"
+    },
+    "dialog": {
+      "expertise": "Expertise",
+      "alarmvideo": "Alarm Video",
+      "alarmlocation": "Alarm Location",
+      "camera": "Camera",
+      "alarminfo": "Alarm Information",
+      "video": "Video",
+      "workstation": "Workstation",
+      "endtime": "End Time",
+      "starttime": "Start Time",
+      "videoduration": "Video Duration",
+      "searchfolder": "Search Hierarchy",
+      "foldername": "Hierarchy Name",
+      "partname": "Part Name",
+      "ip": "IP",
+      "port": "Port",
+      "alarmtime": "Alarm Time",
+      "thoroughfare": "Thoroughfare",
+      "time": "Time",
+      "morevideo": "More Videos",
+      "searchexpertisename": "Search Expertise Name"
+    },
+    "label": {
+      "foldername": "Hierarchy Name",
+      "partname": "Part Name",
+      "editCamera": "Edit Camera",
+      "unassociatedCamera": "Unassociated Camera",
+      "view": "View",
+      "alarmend": "Alarm End",
+      "inalarm": "In Alarm",
+      "noVideo": "No Video Available"
+    }
+  }
+}

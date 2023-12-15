@@ -1,0 +1,73 @@
+{
+  "maintenancePlan": {
+    "table": {
+      "no": "No.",
+      "maintenanceTarget": "Maintenance Target",
+      "number": "Plan Code",
+      "name": "Plan Name",
+      "maintenance": "Maintenance Scheme",
+      "modifyBy": "Modified By",
+      "modifyTime": "Modified Time",
+      "cycle": "Repeat Cycle",
+      "advanceCreationTime": "Advance Creation Time (Days)",
+      "advanceReminderTime": "Advance Reminder Time (Hours)",
+      "trigger": "Trigger Method",
+      "triggerNum": "Trigger Quantity",
+      "advanceCreatedTaskRatio": "Advance Task Creation Ratio",
+      "advanceReminderRatio": "Advance Reminder Ratio",
+      "estimatedTime": "Estimated Time (Hours)",
+      "active": "Enable"
+    },
+    "tab": {
+      "byTime": "Time-Based",
+      "byStatus": "Status-Based",
+      "month": "Month",
+      "day": "Day",
+      "hour": "Hour"
+    },
+    "btn": {
+      "example": "Generate Example"
+    },
+    "dialog": {
+      "addMaintenancePlan": "Create Plan",
+      "planEnableConfirm": "This plan will be enabled. Continue?",
+      "planDisableConfirm": "This plan will be disabled. Continue?",
+      "cronInvalid": "Invalid Cron Expression"
+    },
+    "label": {
+      "playType": "Plan Type",
+      "cycleName": "Repeat Cycle Name",
+      "trigger": "Trigger Condition",
+      "cycleExample": "Example Cycle",
+      "everyMonth": "Every Month",
+      "everyDay": "Every Day",
+      "everyHour": "Every Hour",
+      "monthInterval": "Interval in Months",
+      "dayInterval": "Interval in Days",
+      "hourInterval": "Interval in Hours",
+      "assignMonth": "Specify Months",
+      "assignDay": "Specify Dates",
+      "assignWeek": "Specify Weekdays",
+      "Monday": "Monday",
+      "Tuesday": "Tuesday",
+      "Wednesday": "Wednesday",
+      "Thursday": "Thursday",
+      "Friday": "Friday",
+      "Saturday": "Saturday",
+      "Sunday": "Sunday",
+      "assignHour": "Specify Hours",
+      "from": "From",
+      "to": "To",
+      "step": "Step",
+      "advanceCreationTime": "Advance Creation Time (Days)",
+      "advanceReminderTime": "Advance Reminder Time (Hours)",
+      "count": "Count",
+      "timing": "Timing",
+      "countParam": "Count/Time Parameter (Accumulative)",
+      "advanceCreatedTaskRatio": "Advance Task Creation Ratio",
+      "advanceReminderRatio": "Advance Reminder Ratio",
+      "estimatedTime": "Estimated Time (Hours)",
+      "triggerNumTips": "*Count represents the number of runs, Timing represents the duration of runs (h)"
+    }
+  }
+}

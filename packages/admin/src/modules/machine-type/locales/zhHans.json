@@ -1,0 +1,27 @@
+{
+  "machineType": {
+    "table": {
+      "no": "序号",
+      "workshopId": "车间id",
+      "typeId": "设备类型id",
+      "typeName": "类型名称",
+      "typeDictCode": "设备种类字典编码",
+      "workshopName":"所属车间", 
+      "typeDictLabel": "种类",
+      "isCheckType": "是否检验类设备",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "dialog": {},
+    "label": {
+      "workshop": "所属车间",
+      "type": "种类"
+    }
+  }
+}

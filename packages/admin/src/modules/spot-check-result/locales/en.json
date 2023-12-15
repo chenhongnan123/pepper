@@ -1,0 +1,41 @@
+{
+  "spotCheckResult": {
+    "table": {
+      "no": "Number",
+      "checkId": "Spot Check Plan ID",
+      "typeId": "Device Type ID",
+      "deviceId": "Device ID",
+      "checkResultId": "Spot Check Result ID",
+      "checkResult": "Spot Check Result",
+      "checkName": "Spot Check Plan Name",
+      "spotCheckFrequency": "Spot Check Frequency (Minutes)",
+      "deviceNumber": "Device Number",
+      "deviceName": "Device Name",
+      "typeNumber": "Device Type Number",
+      "typeName": "Device Type",
+      "checkDetailName": "Spot Check Item Name",
+      "currentValue": "Spot Check Value",
+      "detailCheckResult": "Spot Check Result",
+      "parameterTag": "Parameter Name",
+      "upperLimit": "Upper Limit",
+      "lowerLimit": "Lower Limit",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "remark": "Remarks",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Operation"
+    },
+    "label": {
+      "device": "Device"
+    },
+    "dialog": {
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "verification": {
+      "limitError": "Please enter a number"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "recipeManagement": {
+    "table": {
+      "no": "Number",
+      "recipeVersion": "Recipe Version",
+      "deviceNumber": "Device Number",
+      "deviceName": "Device Name",
+      "typeName": "Device Type",
+      "status": "Enabled",
+      "remark": "Description",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

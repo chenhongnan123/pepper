@@ -1,0 +1,19 @@
+{
+  "eaLog": {
+    "table": {
+      "no": "No.",
+      "dispatchNumber": "Dispatch Number",
+      "deviceName": "Device Name",
+      "event": "Event",
+      "status": "Status",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Communication Status"
+    },
+    "btn": {},
+    "dialog": {},
+    "label": {}
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "algorithmConstruction": {
+    "table": {
+      "status": "Status",
+      "name": "Event Name",
+      "description": "Description",
+      "parentBomName": "Parent BOM Name",
+      "bomName": "Station Name",
+      "productName": "Part Name",
+      "algorithmType": "Algorithm Type",
+      "lastUpdateByName": "Modified By",
+      "lastUpdateDate": "Modified Time"
+    },
+    "label": {
+      "data": "Data",
+      "params": "Input Parameters",
+      "column": "Column Name",
+      "paramsName": "Input Parameter Name"
+    },
+    "btn": {
+      "run": "Run Test"
+    },
+    "dialog": {
+      "eventEnableConfirm": "Are you sure you want to enable this algorithm model?",
+      "eventDisableConfirm": "Are you sure you want to disable this algorithm model?",
+      "addEvent": "Add",
+      "editEvent": "Edit",
+      "searchPart": "Search Parts",
+      "standard": "Standard Algorithm",
+      "custom": "Custom Algorithm",
+      "step": "Step",
+      "content": "Content",
+      "status": "Status",
+      "steplist": {
+        "0": "Configuration File Parsing",
+        "1": "Upload Docker Image",
+        "2": "Create Container",
+        "3": "Start Container",
+        "4": "Interface Validation"
+      }
+    }
+  }
+}

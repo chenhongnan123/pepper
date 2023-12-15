@@ -1,0 +1,18 @@
+{
+  "alarmRecords": {
+    "module": {
+      "alarmRecords": "Alarm Records",
+      "alarmRecordsDetail": "Alarm Records Detail"
+    },
+    "table": {
+      "no": "No.",
+      "deviceName": "Device Name",
+      "alarmType": "Alarm Type",
+      "alarmContent": "Alarm Content",
+      "createTime": "Alarm Time"
+    },
+    "fileName": {
+      "alarmRecords": "Alarm Records"
+    }
+  }
+}

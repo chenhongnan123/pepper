@@ -1,0 +1,27 @@
+{
+  "machineType": {
+    "table": {
+      "no": "No.",
+      "workshopId": "Workshop ID",
+      "typeId": "Machine Type ID",
+      "typeName": "Type Name",
+      "typeDictCode": "Machine Category Dictionary Code",
+      "workshopName": "Workshop",
+      "typeDictLabel": "Category",
+      "isCheckType": "Is Inspection Type",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Created Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {
+      "workshop": "Workshop",
+      "type": "Category"
+    }
+  }
+}

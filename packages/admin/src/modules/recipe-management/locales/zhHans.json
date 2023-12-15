@@ -1,0 +1,25 @@
+{
+  "recipeManagement": {
+    "table": {
+      "recipeManagementFallhead": "坠头配方",
+      "recipeManagementSintering": "烧结配方",
+      "recipeManagementFallheadDetail": "坠头配方详情",
+      "recipeManagementSinteringDetail": "烧结配方详情",
+      "no": "序号",
+      "recipeVersion": "配方版本",
+      "deviceNumber": "设备编号",
+      "deviceName": "设备名称",
+      "typeName": "设备类型",
+      "status": "启用",
+      "remark": "描述",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "recipeStatus": "配方下发状态"
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

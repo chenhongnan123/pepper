@@ -1,0 +1,13 @@
+{
+  "test": "Test",
+  "helloWorld": {
+    "email": "Email",
+    "account": "Account",
+    "home": "Home",
+    "testComponent1": "Test Component 1",
+    "testComponent2": "Test Component 2",
+    "setting": {
+      "title": "Setting Test"
+    }
+  }
+}

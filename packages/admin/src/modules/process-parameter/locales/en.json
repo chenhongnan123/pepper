@@ -1,0 +1,28 @@
+{
+  "processParameter": {
+    "table": {
+      "no": "Number",
+      "machineType": "Machine Type",
+      "productNumber": "Product Code",
+      "processNumber": "Process Code",
+      "mesLabel": "MES Code",
+      "label": "Label",
+      "type": "Type",
+      "modifyBy": "Modified By",
+      "modifyTime": "Modified Time"
+    },
+    "file": {
+      "template": "Process Parameter Template"
+    },
+    "dialog": {
+      "add": "Add Process Parameter",
+      "edit": "Edit Process Parameter"
+    },
+    "label": {
+      "type": {
+        "0": "Process Parameter",
+        "1": "Inspection Item"
+      }
+    }
+  }
+}

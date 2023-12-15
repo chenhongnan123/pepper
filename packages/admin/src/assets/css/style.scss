@@ -1,0 +1,298 @@
+// 圆
+.circle {
+  width: var(--circle-width);
+  aspect-ratio: 1; // 纵横比，1 说明是正方形
+  border-radius: 50%;
+  background-color: var(--circle-color); 
+}
+// 圆环
+.ring {
+  width: var(--circle-width);
+  aspect-ratio: 1; // 纵横比，1 说明是正方形
+  border-radius: 50%;
+  background: radial-gradient(
+    farthest-side,
+    #0000 calc(99% - var(--ring-width)),
+    var(--circle-color) calc(100% - var(--ring-width))
+  );
+}
+// 矩形
+.rectangle {
+  width: var(--rectangle-width);
+  height: var(--rectangle-height);
+  background-color: var(--rectangle-color); 
+}
+
+.login-web-img {
+  position: relative;
+  height:800px;
+  z-index:1;
+  .ring-1{
+    clip-path: polygon( 0 50%, 50% 50%, 100% 100%, 0 100%);
+    position: absolute;
+    z-index: 3;
+    right:0px;
+    top: 0%;
+  }
+  .circle-1{
+    position: absolute;
+    z-index: 1;
+    top: 30%;
+    left:8%;
+    .figure-group{
+      position: relative;
+      z-index:1;
+      .rectangle-blur {
+        position: absolute;
+        z-index: 2;
+        backdrop-filter: blur(20px);
+        top:50%;
+        left: -18%;
+      }
+    }
+  }
+  .ring-2{
+    clip-path: polygon( 0 50%, 0 0, 100% 0, 100% 50%);
+    position: absolute;
+    z-index: 3;
+    bottom: -127px;
+  }
+  .circle-2{
+    position: absolute;
+    z-index: 3;
+    bottom: 40%;
+    right: 30%
+  }
+}
+.background-img{
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+  left: 0;
+}
+.logo-img{
+  position: absolute;
+  z-index: 1;
+  top: 20px;
+  left: 20px;
+}
+
+.login-on-mobile {
+  position: relative;
+  z-index: 1;
+  .login-mobile-img {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    .figure-group {
+      position: relative;
+      z-index:1;
+      width: 100%;
+      height: 100%;
+      .ring-1 {
+        position: absolute;
+        top: 4%;
+        left: 14%;
+      }
+      .ring-2 {
+        position: absolute;
+        top: -24%;
+        left: 67%;
+      }
+    }
+  }
+}
+
+.v-application--wrap {
+  background-color: var(--v-bg-base);
+  .v-toolbar__content {
+    height: 44px !important;
+  }
+  .app-header {
+    background-color: var(--v-tag1-base);
+  }
+  .v-main {
+    background-color: var(--v-tag1-base);
+  }
+}
+
+// 页面标题默认样式，不包含字体
+.headline-new {
+  font-size: 20px !important;
+  font-weight: 400;
+  line-height: 2rem;
+  letter-spacing: normal !important;
+}
+
+.theme--dark .login-card {
+  background-color: #292d3a;
+}
+
+.theme--light .login-card {
+  background-color: #F8F8FD;
+}
+
+.menu-group{
+  >.v-list-item--active{
+    // border-left: solid 3px var(--v-primary-base);
+    // border-top-left-radius: 0px !important;
+    // border-bottom-left-radius: 0px !important;
+    font-size: 900;
+  }
+}
+
+.factory-expansion-table{
+  .v-row-group__header{
+    background-color: transparent !important;
+  }
+  table {
+    border-radius: 5px !important;
+  }
+}
+
+.theme--dark .factory-expansion-table table {
+  border: thin solid rgba(255, 255, 255, 0.12) !important;
+}
+
+.theme--light .factory-expansion-table table {
+  border: thin solid rgba(0, 0, 0, 0.12) !important;
+}
+
+.btn-group-tabs {
+  border: thin solid var(--v-primary-base) !important;
+  .v-btn{
+    border: 0px  var(--v-primary-base) !important;
+    background-color: transparent !important;
+  }
+  .v-btn--active{
+    border: thin solid var(--v-primary-base) !important;
+    background-color: var(--v-primary-base) !important;
+    color: white !important;
+  }
+  .v-btn--active::before{
+    opacity: 0 !important;
+  }
+}
+
+.activated-btn-chip::before {
+  opacity: 0.18 !important;
+  color: var(--v-primary-base);
+}
+.activated-btn-chip {
+  .v-btn__content {
+    color: var(--v-primary-base);
+  }
+}
+
+// 灰色细框-深色模式
+.theme--dark .grey-thin-border {
+  border: thin solid rgba(255, 255, 255, 0.12);
+}
+// 灰色细框-浅色模式
+.theme--light .grey-thin-border {
+  border: thin solid rgba(0, 0, 0, 0.12);
+}
+
+.error-thin-border {
+  border: thin solid var(--v-error-base);
+}
+
+.theme--light .user-profile-header {
+  background-color: rgba(0, 0, 0, 0.06);
+}
+.theme--dark .user-profile-header {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+// tab页签样式
+.v-tab {
+  border-radius: 4px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.v-tab--active.v-tab:not(:focus)::before {
+  opacity: 0.12;
+}
+
+
+//用树形组件做的list
+.treeview-list {
+  .v-treeview-node {
+    .v-treeview-node--active {
+      border-left: solid 3px var(--v-primary-base);
+    }
+    .v-treeview-node__root {
+      .v-treeview-node__level {
+        display: none;
+      }
+    }
+  }
+}
+
+.subtitleHeader {
+  font-size: 20px;
+  color: var(--v-subtitle-base);
+}
+
+.darkNoBgColor {
+  .theme--dark.v-navigation-drawer, .theme--dark.v-toolbar.v-sheet, .theme--dark.v-tabs > .v-tabs-bar {
+    background-color: transparent !important;
+  }
+}
+
+.theme--dark .menu-badge .v-badge__badge::after {
+  border-color: var(--v-menu-base) !important;
+}
+
+.drag-item {
+  background-color: var(--dragbg-color);
+  border: 1px dashed var(--v-primary-base);
+  cursor: move;
+}
+
+.drag-index {
+  width: 40px;
+  aspect-ratio: 1; // 纵横比，1 说明是正方形
+  border-radius: 50%;
+  // border: 8px solid var(--v-bg-base);
+  background-color: var(--dragbg-color); 
+}
+
+.drag-area {
+  position: relative;
+  z-index:1;
+  .drag-bg-line {
+    position: absolute;
+    z-index:-1;
+    left: 82px;
+    top: var(--dragline-top);
+    height: 50px;
+    border-left: 2px solid var(--v-line-base);
+  }
+}
+
+.v-tabs-items {
+  background-color: transparent !important;
+}
+
+.transport-task-card {
+  background-color: var(--v-cardbg-base) !important;
+  border-top: solid 3px var(--card-border-color) !important;
+  border-color: var(--card-border-color) !important;
+  .v-chip:before {
+    opacity: 0.1 !important;
+  }
+  .card-info {
+    height: 119px;
+    background-color: var(--v-bg-base);
+  }
+}
+
+.scan-item {
+  background-color: var(--dragbg-color);
+  border: 1px dashed var(--v-primary-base);
+  cursor: pointer;
+}

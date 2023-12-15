@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="119px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="33.6" id="LinearGradient1947">
+      <stop id="Stop1948" stop-color="#ffffff" stop-opacity="0.3137254901960784" offset="0" />
+      <stop id="Stop1949" stop-color="#ffffff" stop-opacity="0.1411764705882353" offset="0.28" />
+      <stop id="Stop1950" stop-color="#000a25" stop-opacity="0" offset="0.52" />
+      <stop id="Stop1951" stop-color="#ffffff" stop-opacity="0.07450980392156863" offset="0.76" />
+      <stop id="Stop1952" stop-color="#ffffff" stop-opacity="0.26666666666666666" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip1953">
+      <path d="M 0 12.73267650604248  L 7.987490331910326 0  L 119 0  L 119 21.78176498413086  L 111.07253589803948 35  L 0 35  L 0 12.73267650604248  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -672 -235 )">
+    <path d="M 0 12.73267650604248  L 7.987490331910326 0  L 119 0  L 119 21.78176498413086  L 111.07253589803948 35  L 0 35  L 0 12.73267650604248  Z " fill-rule="nonzero" fill="url(#LinearGradient1947)" stroke="none" transform="matrix(1 0 0 1 672 235 )" />
+    <path d="M 0 12.73267650604248  L 7.987490331910326 0  L 119 0  L 119 21.78176498413086  L 111.07253589803948 35  L 0 35  L 0 12.73267650604248  Z " stroke-width="2" stroke="#23fff9" fill="none" stroke-opacity="0.27450980392156865" transform="matrix(1 0 0 1 672 235 )" mask="url(#clip1953)" />
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "eventLog": {
+    "table": {
+      "no": "No.",
+      "eventName": "事件",
+      "eventContent": "内容",
+      "action": "操作",
+      "operTime": "开始时间",
+      
+      "operUrl": "接口请求URL",
+      "operParam": "接口请求参数",
+      "jsonResult": "接口返回参数",
+      "status": "状态",
+      "errorMsg": "错误消息",
+      "costTime": "消耗时间",
+      "businessKey": "信息-唯一标识",
+      "businessBody": "信息体"
+    },
+    "dialog": {
+      "tip": "提示"
+    },
+    "btn": {
+      "moreinfo": "详情"
+    }
+  }
+}

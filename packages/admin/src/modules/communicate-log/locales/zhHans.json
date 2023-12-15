@@ -1,0 +1,19 @@
+{
+  "communicateLog": {
+    "table": {
+      "no": "No.",
+      "connectionName": "通讯名称",
+      "connectionType": "通讯类型",
+      "leve": "级别",
+      "ip": "通讯地址",
+      "content": "内容",
+      "createTime": "创建时间"
+    },
+    "dialog": {
+      "tip": "提示"
+    },
+    "btn": {
+      "moreinfo": "详情"
+    }
+  }
+}

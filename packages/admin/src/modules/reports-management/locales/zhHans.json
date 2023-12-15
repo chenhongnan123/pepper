@@ -1,0 +1,22 @@
+{
+  "reportsManagement": {
+    "table": {
+      "no": "序号",
+      "showChart": "显示图表",
+      "hideChart": "隐藏图表",
+      "query": "查询",
+      "action": "操作",
+      "statement": "报表"
+    },
+    "btn": {
+      "saveCurrent": "保存",
+      "saveReport": "保存视图",
+      "saveAs": "另存为",
+      "export": "导出"
+    },
+    "label": {
+      "dataSource": "数据源",
+      "reportName": "报表名称"
+    } 
+  }
+}

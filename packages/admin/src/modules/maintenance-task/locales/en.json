@@ -1,0 +1,80 @@
+{
+  "maintenanceTask": {
+    "table": {
+      "status": "Status",
+      "target": "Task Object",
+      "number": "Task Code",
+      "name": "Task Name",
+      "type": "Task Type",
+      "taskCreationDate": "Task Creation Date",
+      "scheduledStartDate": "Scheduled Start Date",
+      "scheduledCompletionDate": "Scheduled Completion Date",
+      "taskProcessOwner": "Process Owner",
+      "taskProcessDate": "Process Date",
+      "errorCode": "Error Code",
+      "planId": "Plan ID",
+      "planName": "Plan Name",
+      "maintenance": "Maintenance Scheme",
+      "checkItem": "Check Item",
+      "checkItemDescription": "Check Item Description",
+      "relatedBom": "Related Component",
+      "upperLimit": "Upper Limit",
+      "lowerLimit": "Lower Limit",
+      "actualValue": "Actual Value",
+      "result": "Judgment Result",
+      "remark": "Remarks",
+      "reportPosition": "Fault Part",
+      "maintenancePosition": "Maintenance Part",
+      "advanceReminderTime": "Advance Reminder Time (Hours)",
+      "errorName": "Error Content",
+      "errorDesc": "Error Description",
+      "symptom": "Fault Symptom",
+      "reason": "Fault Reason",
+      "solution": "Solution",
+      "partCode": "Part Code",
+      "partName": "Part Name",
+      "partDesc": "Part Description",
+      "partNum": "Part Quantity",
+      "action": "Action",
+      "bomName": "BOM Name"
+    },
+    "tab": {
+      "maintenanceTask": "Maintenance Task",
+      "repairTask": "Repair Task",
+      "taskContent": "Task Content",
+      "attachment": "Upload Attachment",
+      "part": "Part Replacement"
+    },
+    "btn": {
+      "addTempTask": "Add Temporary Maintenance Task",
+      "startTask": "Start Task",
+      "completeTask": "Complete Task",
+      "cancelTask": "Cancel Task",
+      "addAttachment": "Upload Attachment",
+      "addPart": "Replace Part",
+      "expertise": "Expert Knowledge",
+      "createExpertise": "Generate Expert Knowledge",
+      "showAllExpertise": "View All Expert Knowledge",
+      "showFilterExpertise": "View Expert Knowledge for Current Part"
+    },
+    "dialog": {
+      "addTempTask": "Add Temporary Maintenance Task",
+      "addPart": "Replace Part",
+      "expertise": "Expert Knowledge",
+      "createExpertise": "Generate Expert Knowledge",
+      "ignore": "The following parts already exist!"
+    },
+    "label": {
+      "nostart": "Not Started",
+      "complete": "Completed",
+      "inprogress": "In Progress",
+      "delay": "Overdue",
+      "cancel": "Cancelled",
+      "typeList": {
+        "time": "Time-Based",
+        "status": "Status-Based",
+        "temp": "Temporary"
+      }
+    }
+  }
+}

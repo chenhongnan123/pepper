@@ -1,0 +1,34 @@
+{
+  "roadmapManagement": {
+    "table": {
+      "no": "Number",
+      "name": "Process Route Name",
+      "productNumber": "Product Number",
+      "productName": "Product Name",
+      "device": "Model",
+      "version": "Version",
+      "modifyBy": "Modified By",
+      "modifyTime": "Modified Time",
+      "status": "Status"
+    },
+    "btn": {
+    },
+    "dialog": {
+      "add": "Add Process Route",
+      "edit": "Edit Process Route",
+      "roadmapEnableConfirm": "This process route will be enabled. Continue?",
+      "roadmapDisableConfirm": "This process route will be disabled. Continue?",
+      "revokeConfirm": "Selected user authorization will be revoked. Continue?",
+      "workInProcessConfirm": "Are you sure you want to switch the process route with work in progress?",
+      "processRepetition": "Process {name} already exists!"
+    },
+    "label": {
+      "product": "Product",
+      "process": "Process",
+      "roadmapInfo": "Process Route Information",
+      "name": "Process Route Name",
+      "version": "Version",
+      "searchProcess": "Search Process"
+    }
+  }
+}

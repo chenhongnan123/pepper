@@ -1,0 +1,23 @@
+{
+  "parameterSetting": {
+    "table": {
+      "no": "No.",
+      "configId": "Parameter Key",
+      "configName": "Parameter Name",
+      "configKey": "Parameter Key Name",
+      "configValue": "Parameter Key Value",
+      "configType": "System Built-in",
+      "remark": "Remark",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "dialog": {
+      "addMenu": "Add Parameter",
+      "editMenu": "Edit Parameter"
+    },
+    "btn": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  }
+}

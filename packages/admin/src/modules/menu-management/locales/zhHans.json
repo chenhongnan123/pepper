@@ -1,0 +1,40 @@
+{
+  "menuManagement": {
+    "table": {
+      "name": "菜单名称",
+      "nameCn": "菜单中文名称",
+      "nameEn": "菜单英文名称",
+      "icon": "图标",
+      "sort": "显示排序",
+      "component": "组件路由",
+      "path": "路由地址",
+      "type": "类型",
+      "visible": "可见",
+      "permission": "权限标识",
+      "action": "操作"
+    },
+    "dialog": {
+      "addMenu": "新增菜单",
+      "editMenu": "编辑菜单"
+    },
+    "label": {
+      "mainMenu": "主目录",
+      "parent": "上级菜单",
+      "type": "菜单类型",
+      "module": "模块",
+      "directory": "目录",
+      "menu": "菜单",
+      "button": "按钮",
+      "status": "菜单状态",
+      "isRefresh": "是否刷新",
+      "isOutLink": "是否外链",
+      "yes": "是",
+      "no": "否",
+      "show": "显示",
+      "hide": "隐藏",
+      "openMode": "打开方式",
+      "outOpen": "外部打开",
+      "inOpen": "内部打开"
+    }
+  }
+}

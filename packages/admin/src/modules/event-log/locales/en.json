@@ -1,0 +1,26 @@
+{
+  "eventLog": {
+    "table": {
+      "no": "No.",
+      "eventName": "Event",
+      "eventContent": "Content",
+      "action": "Action",
+      "operTime": "Start Time",
+
+      "operUrl": "API Request URL",
+      "operParam": "API Request Parameters",
+      "jsonResult": "API Response Parameters",
+      "status": "Status",
+      "errorMsg": "Error Message",
+      "costTime": "Elapsed Time",
+      "businessKey": "Info - Unique Identifier",
+      "businessBody": "Info Body"
+    },
+    "dialog": {
+      "tip": "Tip"
+    },
+    "btn": {
+      "moreinfo": "Details"
+    }
+  }
+}

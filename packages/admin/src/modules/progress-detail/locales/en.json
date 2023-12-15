@@ -1,0 +1,32 @@
+{
+  "progressDetail": {
+    "table": {
+      "no": "Number",
+      "priority": "Priority",
+      "productNumber": "Product Code",
+      "productName": "Product Name",
+      "specifications": "Specifications",
+      "dispatchNumber": "Dispatch Number",
+      "handleNumber": "Handle Number",
+      "coreNumber": "Core Number",
+      "lightRodNumber": "Light Rod Number",
+      "deviceName": "Device Name",
+      "processName": "Process Name",
+      "finalReportedDeviceName": "Final Reported Device Name",
+      "finalReportedTime": "Final Reported Time",
+      "generateTransportScheduleTask": "Generated Transport Schedule Task"
+    },
+    "btn": {
+      "edit": "Edit Priority"
+    },
+    "dialog": {
+      "edit": "Edit Priority"
+    },
+    "label": {
+      "generateTransportScheduleTask": {
+        "1": "Yes",
+        "0": "No"
+      }
+    }
+  }
+}

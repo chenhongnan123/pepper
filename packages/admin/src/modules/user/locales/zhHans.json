@@ -1,0 +1,57 @@
+{
+  "user": {
+    "profile": {
+      "title": "档案",
+      "avatar": "头像设置",
+      "personalInfo": "个人信息",
+      "account": "登录账号",
+      "createTime": "创建时间",
+      "userName": "用户名称",
+      "remark": "备注",
+      "dingtalkId": "钉钉ID",
+      "wechatPublicId": "微信公众号ID",
+      "wechatEnterpiriseId": "个人企业微信",
+      "userType": "角色类型",
+      "organization": "组织",
+      "company": "公司",
+      "factory": "工厂",
+      "department": "部门",
+      "position": "岗位",
+      "role": "角色",
+      "profile": "基本资料",
+      "lastname": "姓氏",
+      "firstname": "名称",
+      "email": "邮箱",
+      "telephone": "手机号码",
+      "sex": "性别",
+      "updateArchive": "更新档案"
+    },
+    "preferences": {
+      "title": "显示设置",
+      "language": "语言",
+      "displayMode": "显示模式",
+      "darkMode": "深色模式",
+      "lightMode": "浅色模式",
+      "password": "密码设置",
+      "timeout": "登录超时时间",
+      "passwordLength": "密码长度",
+      "complexity": "复杂度",
+      "hour": "小时"
+    },
+    "password": {
+      "title": "密码",
+      "oldPassword": "旧密码",
+      "newPassword": "新密码",
+      "updatePassword": "更新密码"
+    },
+    "session": {
+      "title": "会话记录",
+      "tips": "如下为登录此账号的设备清单，若发现您不认识的设备，请注意账号安全。",
+      "curSession": "当前登录",
+      "ip": "地址",
+      "container": "环境",
+      "signedIn": "登录时间",
+      "accessRecords": "访问记录"
+    }
+  }
+}

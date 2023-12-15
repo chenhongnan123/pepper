@@ -1,0 +1,65 @@
+$namespace: 'xmx'; // 更改默认前缀为'xmx'. 然后设置 <date-picker prefix-class="xmx" />
+
+$default-color: #fff;
+$primary-color: #1685d3;
+$input-color: #fff;
+$input-border-color: rgba(0, 0, 0, 0.2);
+$input-hover-border-color: #fff;
+$border-color: #fff;
+$calendar-hover-background-color: rgba(255, 255, 255, 0.5);
+$time-hover-background-color: rgba(255, 255, 255, 0.5);
+$calendar-in-range-color: #fff;
+$calendar-in-range-background-color: rgba(255, 255, 255, 0.4);
+
+//细长样式的datepicker
+.thin-datepicker {
+  .#{$namespace}-input-wrapper {
+    .#{$namespace}-input {
+      height: 30px !important;
+      font-weight: 500;
+      padding-left: 9px !important;
+    }
+  }
+}
+
+//短一点的datepicker
+.short-datepicker {
+  width: 274px !important;
+  .#{$namespace}-input-wrapper {
+    .#{$namespace}-input {
+      font-size: 12px !important;
+      padding-left: 3px !important;
+    }
+  }
+}
+
+//长一点的datepicker
+.long-datepicker {
+  width: 100% !important;
+  .#{$namespace}-input-wrapper {
+    .#{$namespace}-input {
+      height: 40px !important;
+      font-size: 12px !important;
+      padding-left: 3px !important;
+    }
+  }
+}
+
+.#{$namespace}-input {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.#{$namespace}-icon-calendar,
+.#{$namespace}-icon-clear {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.#{$namespace}-datepicker-main {
+  background-color: #1E1E1E !important;;
+}
+
+.#{$namespace}-time {
+  background: #1E1E1E !important;
+}
+
+@import '~vue2-datepicker/scss/index.scss';

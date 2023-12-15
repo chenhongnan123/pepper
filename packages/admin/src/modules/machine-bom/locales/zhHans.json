@@ -1,0 +1,86 @@
+{
+  "machineBom": {
+    "title": {
+      "devicePhoto": "设备图片",
+      "deviceInfo": "设备信息",
+      "deviceAttachment": "附件",
+      "machineBom": "设备BOM"
+    },
+    "btn": {
+      "viewDetail": "查看设备BOM",
+      "fileType": "文件类型"
+    },
+    "label": {
+      "headPortraitName": "设备图片",
+      "deviceCode": "设备代码",
+      "deviceName": "设备名称",
+      "description": "设备描述",
+      "deviceSpec": "设备规格",
+      "deviceType": "设备类型",
+      "startDate": "启用时间",
+      "remark": "备注",
+      "searchComponent": "搜索部件",
+      "productCode": "代码",
+      "productName": "名称",
+      "productDescription": "描述",
+      "modelid": "模型ID",
+      "notrelatedmodelid": "未关联模型ID",
+      "layoutNumber": "层级编号",
+      "layoutName": "层级名称",
+      "bomCode": "编号",
+      "bomName": "名称",
+      "bomDescription": "描述",
+      "hasCamera": "是否存在相机",
+      "cameraParameter": "相机参数",
+      "cameraIp": "IP",
+      "cameraPort": "端口",
+      "cameraThoroughfare": "通道",
+      "cameraAccount": "账号",
+      "cameraPassword": "密码"
+    },
+    "table": {
+      "no": "No.",
+      "bomName": "BOM名称",
+      "productCode": "零件代码",
+      "productName": "零件名称",
+      "description": "零件描述",
+      "productType": "零件类型",
+      "productNumber": "零件数量",
+      "positionNum": "位置编号",
+      "elecSymbol": "电气符号",
+      "isKeyPart": "是否关键零部件",
+      "isMaintenance": "是否运维",
+      "isBackup": "是否备件",
+      "restLife": "零件寿命(h/次)",
+      "warnPercent": "预警比例",
+      "updatedName": "修改人",
+      "updateTime": "修改时间"
+    },
+    "dialog": {
+      "addAttachment": "新增附件",
+      "addBomFirst": "新增BOM（首层）",
+      "editBomFirst": "编辑BOM（首层）",
+      "relateModel": "关联模型",
+      "addBom": "新增BOM",
+      "editBom": "编辑BOM",
+      "productCode": "零件代码",
+      "productName": "零件名称",
+      "description": "零件描述",
+      "productType": "零件类型",
+      "productNumber": "零件数量",
+      "positionNum": "位置编号",
+      "elecSymbol": "电气符号",
+      "isKeyPart": "是否关键零部件",
+      "isMaintenance": "是否运维",
+      "isBackup": "是否备件",
+      "lifeType": "寿命类型",
+      "restLife": "寿命",
+      "countParameter": "参数",
+      "warnPercent": "预警比例"
+    },
+    "fileName": {
+      "sampleFileName": "设备BOM模板",
+      "exportFileName": "设备BOM"
+    }
+  }
+}

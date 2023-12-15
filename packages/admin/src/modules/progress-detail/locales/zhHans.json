@@ -1,0 +1,32 @@
+{
+  "progressDetail": {
+    "table": {
+      "no": "序号",
+      "priority": "优先级",
+      "productNumber": "产品编号",
+      "productName": "产品名称",
+      "specifications": "规格",
+      "dispatchNumber": "派工单号",
+      "handleNumber": "手柄编号",
+      "coreNumber": "棒芯编号",
+      "lightRodNumber": "光棒编号",
+      "deviceName": "所在设备名称",
+      "processName": "工序名称",
+      "finalReportedDeviceName": "最后报工设备名称",
+      "finalReportedTime": "最后报工时间",
+      "generateTransportScheduleTask": "是否已生成行车任务"
+    },
+    "btn": {
+      "edit": "更改优先级"
+    },
+    "dialog": {
+      "edit": "更改优先级"
+    },
+    "label": {
+      "generateTransportScheduleTask": {
+        "1": "是",
+        "0": "否"
+      }
+    }
+  }
+}

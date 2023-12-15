@@ -1,0 +1,35 @@
+{
+  "monitorRecord": {
+    "table": {
+      "no": "No.",
+      "bomName": "Component Name",
+      "bomParentName": "Hierarchy Name",
+      "partName": "Part Name",
+      "eventName": "Event Name",
+      "type": "Algorithm Type",
+      "algorithmType": "Algorithm Type",
+      "algorithm": "Algorithm",
+      "warnCode": "Warning Code",
+      "warnContent": "Warning Content",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "remark": "Remark",
+      "createBy": "Created By",
+      "createTime": "Created Time",
+      "action": "Action"
+    },
+    "label": {
+      "device": "Device",
+      "standardalgorithm": "Standard Algorithm",
+      "customalgorithms": "Custom Algorithms"
+    },
+    "dialog": {
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "verification": {
+      "limitError": "Please enter a number"
+    }
+  }
+}

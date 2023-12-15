@@ -1,0 +1,45 @@
+{
+  "machineList": {
+    "table": {
+      "no": "No.",
+      "deviceName": "Device Name",
+      "deviceNumber": "Device Number",
+      "deviceId": "Device ID",
+      "typeId": "Device Type ID",
+      "processName": "Process Name",
+      "processNumber": "Process Number",
+      "transportName": "Transport",
+      "onlineStatus": "Data Collection Status",
+      "parameterName": "Parameter Name",
+      "parameterNumber": "Label",
+      "categoryName": "Parameter Type",
+      "categoryNumber": "Parameter Type",
+      "parameterValue": "Parameter Value",
+      "isAssignProduct": "Is Assigned to Product",
+      "status": "Status",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "remark": "Remark",
+      "createBy": "Created By",
+      "createTime": "Created Time",
+      "action": "Action"
+    },
+    "dialog": {
+      "addDictType": "Add Dictionary Type",
+      "editDictType": "Edit Dictionary Type",
+      "addDictData": "Add Dictionary Data",
+      "editDictData": "Edit Dictionary Data"
+    },
+    "label": {
+      "machinetype": "Device Type",
+      "searchmachinetype": "Search Device Type"
+    },
+    "btn": {
+      "normalStatus": "Yes",
+      "disabledStatus": "No"
+    },
+    "verification": {
+      "dictTypeError": "Must start with a letter and can only contain lowercase letters, numbers, and underscores"
+    }
+  }
+}

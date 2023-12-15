@@ -1,0 +1,50 @@
+{
+  "roleManagement": {
+    "table": {
+      "no": "序号",
+      "name": "角色名称",
+      "sort": "显示顺序",
+      "remark": "备注",
+      "status": "角色状态",
+      "userStatus": "用户状态",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作",
+      "userAccount": "登录账号",
+      "userNickname": "用户名称",
+      "phoneNumber": "手机号码",
+      "email": "邮箱"
+    },
+    "btn": {
+      "revoke": "取消授权",
+      "assignUser": "分配用户",
+      "addUser": "添加用户"
+    },
+    "dialog": {
+      "add": "新增角色",
+      "edit": "编辑角色",
+      "dataScope": "分配数据权限",
+      "selectUser": "选择用户",
+      "roleEnableConfirm": "该角色将被启用，是否继续？",
+      "roleDisableConfirm": "该角色将被停用，是否继续？",
+      "revokeConfirm": "选中用户授权将被取消，是否继续？"
+    },
+    "label": {
+      "roleKey": "权限字符",
+      "status": "状态",
+      "able": "正常",
+      "disable": "停用",
+      "menuPermission": "菜单权限",
+      "dataScope": "数据权限",
+      "permissionRange": "权限范围",
+      "dataScopeList": {
+        "1": "全部数据权限",
+        "2": "自定数据权限",
+        "3": "本部门数据权限",
+        "4": "本部门及以下数据权限",
+        "5": "及本人数据权限"
+      },
+      "tabletLogin": "终端"
+    }
+  }
+}

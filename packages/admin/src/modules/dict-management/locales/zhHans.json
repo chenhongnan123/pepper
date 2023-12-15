@@ -1,0 +1,38 @@
+{
+  "dictManagement": {
+    "table": {
+      "dictId": "字典编号",
+      "dictName": "字典名称",
+      "dictType": "字典类型",
+      "default": "",
+      "dictCode": "字典编码",
+      "statusLock": "系统锁定",
+      "dictLabel": "字典标签",
+      "dictSort": "字典排序",
+      "dictValue": "字典键值",
+      "cssClass": "样式属性",
+      "isDefault": "系统默认",
+      "listClass": "回显样式",
+      "status": "状态",
+      "updateBy": "",
+      "updateTime": "",
+      "remark": "备注",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "dialog": {
+      "addDictType": "添加字典类型",
+      "editDictType": "编辑添加字典类型",
+      "addDictData": "添加字典数据",
+      "editDictData": "编辑字典数据"
+    },
+    "btn": {
+      "normalStatus": "是",
+      "disabledStatus": "否"
+    },
+    "verification": {
+      "dictTypeError": "以字母开头，且只能为小写字母，数字，下滑线"
+    }
+  }
+}

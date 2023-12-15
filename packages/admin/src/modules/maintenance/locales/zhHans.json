@@ -1,0 +1,50 @@
+{
+  "maintenance": {
+    "table": {
+      "schemaTypeLabel": "方案类型",
+      "schemaType": "方案类型",
+      "schemaCode": "方案代码",
+      "schemaName": "方案名称",
+      "schemaDesc": "方案描述",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "checkItem": "检查项",
+      "checkItemDescription": "检查项描述",
+      "checkItemType": "类型",
+      "upperLimit": "上限",
+      "lowerLimit": "下限",
+      "relatedBom": "关联部件",
+      "isRequired": "是否必填",
+      "typeName": "方案类型名称",
+      "active": "启用"
+    },
+    "tab": {
+      "detail": "方案内容",
+      "attachment": "附件"
+    },
+    "btn": {
+      "addAttachment": "新增附件"
+    },
+    "dialog": {
+      "addMaintenance": "新增维保方案",
+      "editMaintenance": "编辑维保方案",
+      "addMaintenanceDetail": "新增维保方案详情",
+      "editMaintenanceDetail": "编辑维保方案详情",
+      "addMaintenanceType": "新增维保方案类型",
+      "editMaintenanceType": "编辑维保方案类型",
+      "maintenanceEnableConfirm": "该方案将被启用，是否继续？",
+      "maintenanceDisableConfirm": "该方案将被停用，是否继续？",
+      "detailRequiredConfirm": "将变更必填状态，是否继续？"
+    },
+    "label": {
+      "quantify": "定量",
+      "qualitative": "定性",
+      "isRequired": "必填",
+      "upperLimit": "理论上限",
+      "lowerLimit": "理论下限",
+      "showMaintenancePart": "查看维保零件",
+      "showMainPart": "查看关键零部件",
+      "searchPart": "搜索零部件"
+    }
+  }
+}

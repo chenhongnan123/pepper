@@ -1,0 +1,80 @@
+{
+  "dataSource": {
+    "dialog": {
+      "add": "Add",
+      "edit": "Edit Rule Details",
+      "export": "Export",
+      "addColumn": "Add Column",
+      "editColumn": "Edit Column",
+      "confirmClean": "Are you sure you want to clear all data?"
+    },
+    "btn": {
+      "clean": "Clear Data",
+      "editColumn": "Edit Column",
+      "addColumn": "Add Column"
+    },
+    "table": {
+      "no": "No.",
+      "status": "Data Collection Status",
+      "dataSourceNumber": "Data Table Code",
+      "dataSourceName": "Data Table Name",
+      "storageFrequency": "Storage Frequency",
+      "storageDuration": "Storage Duration",
+      "needBackup": "Backup Required",
+      "storageRule": "Storage Rule",
+      "storageMode": "Data Table Type",
+      "active": "Active",
+      "inactive": "Inactive",
+      "updateTime": "Modified Time",
+      "updateBy": "Modified By",
+      "createdtimestamp": "Created Time",
+      "timestamp": "Timestamp",
+      "year": "Year",
+      "month": "Month",
+      "day": "Day",
+      "week": "Week",
+      "hour": "Hour",
+      "ts": "Group"
+    },
+    "label": {
+      "showSourceRule": "View Rule Details",
+      "storageMode": "Record Type",
+      "trigger": "Trigger Rule",
+      "triggerEnd": "End Signal",
+      "triggerStart": "Start Signal",
+      "triggerOrNot": "Trigger or Not",
+      "triggerSingle": "Single Trigger",
+      "parameter": "Parameter",
+      "value": "Value",
+      "columnName": "Column Name",
+      "attribute": "Attribute",
+      "timeRange": "Time Range",
+      "file": "File",
+      "action": "Action",
+      "search": "Search",
+      "uploadTips": "Supports only .json/.tar formats, limited to 2 files for upload",
+      "statusList": {
+        "1": "Online",
+        "0": "Offline"
+      },
+      "storageModeList": {
+        "1": "PLC Parameters",
+        "2": "Record Trigger Interval Time",
+        "3": "Parameter Feature Extraction",
+        "4": "Record Updated Data"
+      },
+      "storageDurationList": {
+        "1": "1 Day",
+        "2": "7 Days",
+        "3": "30 Days",
+        "4": "90 Days",
+        "5": "180 Days",
+        "6": "365 Days"
+      }
+    },
+    "fileName": {
+      "sampleFileName": "Communication Parameter Template",
+      "exportFileName": "Communication Parameters"
+    }
+  }
+}

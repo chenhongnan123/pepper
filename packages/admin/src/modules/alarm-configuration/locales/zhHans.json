@@ -1,0 +1,88 @@
+{
+  "alarmConfiguration": {
+    "label": {
+      "deviceAlarm": "设备报警",
+      "paramMonitorAlarm": "参数监控报警",
+      "spcAlarm": "SPC报警"
+    },
+    "dialog": {
+      "addDeviceAlarm": "新增报警代码",
+      "editDeviceAlarm": "编辑报警代码",
+      "alarmNumber": "报警代码编号",
+      "alarmName": "报警代码名称",
+      "description": "描述",
+      "component": "所属部件",
+      "alarmType": "报警代码类型",
+      "active": "启用",
+      "inactive": "禁用",
+      "addParamMonitorAlarm": "新增参数监控",
+      "editParamMonitorAlarm": "编辑参数监控",
+      "eventNumber": "事件编号",
+      "eventName": "事件名称",
+      "eventDesc": "事件描述",
+      "parameterName": "参数名称",
+      "triggerCondition": "触发条件",
+      "upperLimit": "上限值",
+      "lowerLimit": "下限值",
+      "upperLimitWarnValue": "上限预警值",
+      "lowerLimitWarnValue": "下限预警值",
+      "warnValue": "预警值",
+      "triggerNumber": "触发前次数",
+      "dashboardShow": "看板显示",
+      "dashboardPosition": "看板位置",
+      "addSPCAlarm": "新增SPC报警",
+      "editSPCAlarm": "编辑SPC报警",
+      "algorithm": "算法",
+      "deleterecord": "删除记录",
+      "deleterecordconfirm": "确定要删除选中记录吗?"
+    },
+    "table": {
+      "no": "序号",
+      "alarmNumber": "报警代码编号",
+      "alarmName": "报警代码名称",
+      "eventNumber": "事件编号",
+      "eventName": "事件名称",
+      "description": "描述",
+      "componentNumber": "所属部件编号",
+      "componentName": "所属部件名称",
+      "categoryName": "报警类型",
+      "isDashboardShow": "是否显示在看板",
+      "dashboardPosition": "看板位置",
+      "communicationMode": "通讯方式",
+      "parameterName": "参数名称",
+      "algorithm": "算法",
+      "triggerCondition": "触发条件",
+      "triggerNumber": "触发前次数",
+      "upperLimit": "上限值",
+      "lowerLimit": "下限值",
+      "upperLimitWarnValue": "上限预警值",
+      "lowerLimitWarnValue": "下限预警值",
+      "warnValue": "预警值",
+      "status": "状态",
+      "active": "启用",
+      "inactive": "禁用",
+      "createBy": "创建人",
+      "CREATION_DATE": "创建时间",
+      "updateTime": "修改时间",
+      "updateBy": "修改人"
+    },
+    "fileName": {
+      "deviceAlarmSampleFile": "设备报警模板",
+      "paramMonitorAlarmSampleFile": "参数监控报警模板",
+      "spcAlarmSampleFile": "SPC报警模板",
+      "deviceAlarmExportFile": "设备报警",
+      "paramMonitorAlarmExportFile": "参数监控报警",
+      "spcAlarmExportFile": "SPC报警"
+    },
+    "settingTable": {
+      "no": "序号",
+      "dataTypeNum": "报警类型编号",
+      "dataTypeName": "报警类型名称",
+      "dataTypeDesc": "报警类型描述",
+      "enabledFlag": "系统锁定"
+    },
+    "alarmTypeSetting": {
+      "title": "报警类型"
+    }
+  }
+}

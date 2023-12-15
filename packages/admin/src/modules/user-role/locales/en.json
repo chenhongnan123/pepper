@@ -1,0 +1,45 @@
+{
+  "userRole": {
+    "user": "User",
+    "role": "Role",
+    "table": {
+      "no": "No.",
+      "roleId": "Role ID",
+      "roleName": "Role Name",
+      "roleType": "Role Type",
+      "roleDescription": "Role Description",
+      "roleAccess": "Role Access",
+      "account": "Account",
+      "password": "Password",
+      "repassword": "Confirm Password",
+      "lastname": "Last Name",
+      "firstname": "First Name",
+      "email": "Email",
+      "phone": "Phone",
+      "avatar": "User Avatar",
+      "position": "Position",
+      "department": "Department",
+      "userAccess": "User Access",
+      "userStatus": "Enable"
+    },
+    "btn": {
+      "moreInfo": "More Info",
+      "resetPassword": "Reset Password",
+      "enableUser": "Enable User",
+      "disableUser": "Disable User"
+    },
+    "dialog": {
+      "addRole": "Add Role",
+      "editRole": "Edit Role",
+      "addUser": "Add User",
+      "editUser": "Edit User",
+      "roleDeleteConfirm": "This role will be permanently deleted. Continue?",
+      "userDeleteConfirm": "This user will be permanently deleted. Continue?",
+      "userEnableConfirm": "This user will be enabled. Continue?",
+      "userDisableConfirm": "This user will be disabled. Continue?",
+      "accessChangeConfirm": "This user's access will change from {from} to {to}. Continue?",
+      "passwordResetConfirm": "This will reset the user's login password. Continue?",
+      "passwordInconsistent": "Passwords do not match. Please re-enter."
+    }
+  }
+}

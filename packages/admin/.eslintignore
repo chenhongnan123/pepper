@@ -1,0 +1,5 @@
+build
+config/*.js
+pdfmake.js
+vfs_fonts.js
+static/dist

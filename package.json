@@ -1,0 +1,19 @@
+{
+  "name": "pepper",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "serve:admin": "lerna run serve --scope admin ",
+    "test:admin": "lerna run test --scope admin ",
+    "build:admin": "lerna run build --scope admin ",
+    "serve:ios": "lerna run serve --scope ios",
+    "test:ios": "lerna run test --scope ios",
+    "build:ios": "lerna run build --scope ios"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.1.0"
+  }
+}

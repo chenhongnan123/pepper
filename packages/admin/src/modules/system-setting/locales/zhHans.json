@@ -1,0 +1,20 @@
+{
+  "systemSetting": {
+    "password": {
+      "title": "密码",
+      "password": "密码设置",
+      "timeout": "登录超时时间",
+      "passwordLength": "密码长度",
+      "complexity": "复杂度",
+      "complexityList": {
+        "low": "低 /数字",
+        "middle": "中/数字、字母",
+        "high": "高/数字、字母、特殊字符"
+      },
+      "hour": "小时",
+      "min": "分钟",
+      "firstLoginCheck": "首次登录强制修改密码",
+      "tips": "Tips: 特殊字符不能包含%，单引号，双引号。"
+    }
+  }
+}

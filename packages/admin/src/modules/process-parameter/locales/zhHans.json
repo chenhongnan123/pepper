@@ -1,0 +1,28 @@
+{
+  "processParameter": {
+    "table": {
+      "no": "序号",
+      "machineType": "设备类型",
+      "productNumber": "产品编码",
+      "processNumber": "工序编码",
+      "mesLabel": "MES编码",
+      "label": "标签",
+      "type": "类型",
+      "modifyBy": "修改人",
+      "modifyTime": "修改时间"
+    },
+    "file": {
+      "template": "工艺参数模板"
+    },
+    "dialog": {
+      "add": "新增工艺参数",
+      "edit": "编辑工艺参数"
+    },
+    "label": {
+      "type": {
+        "0": "工艺参数",
+        "1": "检验项"
+      }
+    }
+  }
+}

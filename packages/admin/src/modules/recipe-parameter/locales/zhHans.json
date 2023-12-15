@@ -1,0 +1,25 @@
+{
+  "recipeParameter": {
+    "table": {
+      "no": "序号",
+      "parameterTag": "PLC参数标签",
+      "tablePosition": "表格位置",
+      "recipeType": "配方类型",
+      "recipe1": "坠头配方",
+      "recipe2": "烧结配方",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "dialog": {},
+    "label": {
+      "workshop": "所属车间",
+      "type": "种类"
+    }
+  }
+}

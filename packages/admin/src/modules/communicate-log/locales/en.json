@@ -1,0 +1,19 @@
+{
+  "communicateLog": {
+    "table": {
+      "no": "No.",
+      "connectionName": "Connection Name",
+      "connectionType": "Connection Type",
+      "leve": "Level",
+      "ip": "Connection Address",
+      "content": "Content",
+      "createTime": "Created Time"
+    },
+    "dialog": {
+      "tip": "Tip"
+    },
+    "btn": {
+      "moreinfo": "More Info"
+    }
+  }
+}

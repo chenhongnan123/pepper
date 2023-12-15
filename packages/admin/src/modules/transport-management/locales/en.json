@@ -1,0 +1,28 @@
+{
+  "transportManagement": {
+    "table": {
+      "no": "Number",
+      "transportId": "Transport ID",
+      "transportNumber": "Transport Number",
+      "transportName": "Transport Name",
+      "workshopName": "Workshop",
+      "onlineStatus": "Data Collection Status",
+      "parameterName": "Parameter Name",
+      "parameterNumber": "Label",
+      "categoryName": "Parameter Type",
+      "categoryNumber": "Parameter Type",
+      "parameterValue": "Parameter Value",
+      "transportDesc": "Description",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {}
+  }
+}

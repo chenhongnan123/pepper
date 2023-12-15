@@ -1,0 +1,80 @@
+{
+  "dashboardSetting": {
+    "table": {
+      "no": "No.",
+      "boardCode": "卡片编号",
+      "name": "卡片名称",
+      "sort": "显示顺序",
+      "isBoard": "启用",
+      "action": "操作"
+    },
+    "dialog": {
+      "editDtboardSetting": "编辑看板设置",
+      "boardEnableConfirm": "该卡片将显示在看板上，是否继续？",
+      "boardDisableConfirm": "该卡片将不显示在看板上，是否继续？",
+      "syncParameters": "同步参数"
+    },
+    "label": {
+      "classExample": "样式示例：",
+      "connectionParameter": "通讯参数"
+    },
+    "detailTable": {
+      "no": "No.",
+      "adverseCauses": "不良原因",
+      "connectionName": "通讯名称",
+      "connectionType": "通讯类型",
+      "parameterCode": "参数编号",
+      "parameterName": "参数名称",
+      "parameterDescription": "参数描述"
+    },
+    "title": {
+      "C0001": {
+        "batchNumber": "批号",
+        "workOrder": "工单",
+        "productCode": "产品型号",
+        "orderQuantity": "订单数量",
+        "passCode": "合格数量",
+        "failCode": "不合格数量"
+      },
+      "C0002": {
+        "orderQuantity": "计划产量",
+        "passCode": "良品产出",
+        "totalProducts": "总产出"
+      },
+      "C0003": {
+        "orderQuantity": "计划产量",
+        "passCode": "良品产出",
+        "failCode": "不良产出",
+        "totalProducts": "总产出"
+      },
+      "C0004": {
+        "normal1_current": "激活力1",
+        "USL": "激活力上限",
+        "normal2_current": "激活力2",
+        "UCL": "激活力下限"
+      },
+      "C0005": {
+      },
+      "C0006": {
+        "destructiveForce1_current": "破坏力1",
+        "USL": "破坏力上限",
+        "destructiveForce2_current": "破坏力2",
+        "UCL": "破坏力下限",
+        "CBK": "Cpk预警值",
+        "CBKQuantity": "当前Cpk"
+      },
+      "C0007": {
+        "jl1_current": "胶量值1",
+        "USL": "胶量值上限",
+        "jl2_current": "胶量值2",
+        "UCL": "胶量值下限"
+      },
+      "C0008": {
+      },
+      "C0009": {
+        "sampling_current": "IPC当前取样数",
+        "sampling": "IPC取样数"
+      }
+    }
+  }
+}

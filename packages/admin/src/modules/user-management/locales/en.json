@@ -1,0 +1,55 @@
+{
+  "userManagement": {
+    "dialog": {
+      "addUser": "Add User",
+      "editUser": "Edit User",
+      "selectDepartment": "Select Department",
+      "resetPwd": "Reset Password",
+      "assignRole": "Assign Roles",
+      "userEnabledConfirm": "Are you sure you want to enable this user?",
+      "userDisabledConfirm": "Are you sure you want to disable this user?"
+    },
+    "btn": {
+      "resetPwd": "Reset Password",
+      "assignRole": "Assign Roles"
+    },
+    "label": {
+      "organization": "Organization Structure",
+      "search": "Department Search",
+      "nickname": "User Name",
+      "departmentName": "Department",
+      "phoneNumber": "Phone Number",
+      "email": "Email",
+      "userAccount": "Login Account",
+      "password": "Login Password",
+      "sex": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "unknown": "Unknown",
+      "status": "User Status",
+      "active": "Active",
+      "inactive": "Inactive",
+      "wechatPublicId": "WeChat Public ID",
+      "dingtalkId": "DingTalk ID",
+      "wechatEnterpiriseId": "Enterprise WeChat ID",
+      "position": "Position",
+      "role": "Role",
+      "remark": "Remark",
+      "newPwd": "New Password"
+    },
+    "verification": {
+      "pwdLengthLimit": "Password length must be between 5 and 20 characters."
+    },
+    "table": {
+      "number": "No.",
+      "userAccount": "Login Account",
+      "userNickname": "User Name",
+      "deptmentName": "Department",
+      "phoneNumber": "Phone Number",
+      "status": "Status",
+      "createdBy": "Created By",
+      "creationTime": "Creation Time",
+      "action": "Action"
+    }
+  }
+}

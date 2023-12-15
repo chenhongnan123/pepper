@@ -1,0 +1,32 @@
+{
+  "machineAttribute": {
+    "table": {
+      "no": "序号",
+      "attributeId": "设备属性id",
+      "processName": "工序",
+      "typeName": "类型名称",
+      "isCheckType": "是否检验类设备",
+      "transportName": "行车",
+      "stayTime": "停留时间（分钟）",
+      "isGenerateTask": "报工是否生成任务",
+      "isPullTask": "是否主动要取任务",
+      "isAssignDevice": "是否指定设备",
+      "updateBy": "修改人",
+      "updateTime": "修改时间",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载"
+    },
+    "dialog": {},
+    "label": {},
+    "verification": {
+      "stayTime": "请输入数字，可以带一位小数"
+    },
+    "message": {
+      "error": "设备类型关联的车间和行车关联的不一致！"
+    }
+  }
+}

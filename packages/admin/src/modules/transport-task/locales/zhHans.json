@@ -1,0 +1,30 @@
+{
+  "transportTask": {
+    "table": {
+      "no": "序号",
+      "status": "任务状态",
+      "createTime": "创建时间",
+      "number": "行车编号",
+      "name": "行车名称",
+      "startPointNumber": "起点编号",
+      "startPointName": "起点名称",
+      "endPointNumber": "终点编号",
+      "endPointName": "终点名称",
+      "dispatchNumber": "派工单号",
+      "handleNumber": "手柄编号",
+      "coreNumber": "棒芯编号",
+      "lightRodNumber": "光棒编号",
+      "productNumber": "产品编号"
+    },
+    "btn": {
+      "listView": "切换列表视图",
+      "cardView": "切换卡片视图"
+    },
+    "dialog": {
+    },
+    "label": {
+      "status": "任务状态",
+      "transport": "行车"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "recipeParameter": {
+    "table": {
+      "no": "Number",
+      "parameterTag": "PLC Parameter Tag",
+      "tablePosition": "Table Position",
+      "recipeType": "Recipe Type",
+      "recipe1": "Fall Head Recipe",
+      "recipe2": "Sintering Recipe",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template"
+    },
+    "dialog": {},
+    "label": {
+      "workshop": "Workshop",
+      "type": "Type"
+    }
+  }
+}

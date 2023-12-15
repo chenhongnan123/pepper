@@ -1,0 +1,45 @@
+{
+  "userRole": {
+    "user": "用户",
+    "role": "角色",
+    "table": {
+      "no": "序号",
+      "roleId": "角色ID",
+      "roleName": "角色名称",
+      "roleType": "角色类型",
+      "roleDescription": "角色描述",
+      "roleAccess": "角色权限",
+      "account": "账号",
+      "password": "密码",
+      "repassword": "确认密码",
+      "lastname": "姓",
+      "firstname": "名",
+      "email": "邮箱",
+      "phone": "电话",
+      "avatar": "用户头像",
+      "position": "职位",
+      "department": "部门",
+      "userAccess": "用户权限",
+      "userStatus": "启用"
+    },
+    "btn": {
+      "moreInfo": "更多信息",
+      "resetPassword": "重置密码",
+      "enableUser": "启用用户",
+      "disableUser": "停用用户"
+    },
+    "dialog": {
+      "addRole": "新增角色",
+      "editRole": "编辑角色",
+      "addUser": "新增用户",
+      "editUser": "编辑用户",
+      "roleDeleteConfirm": "该角色将被永久刪除，是否继续？",
+      "userDeleteConfirm": "该用户将被永久刪除，是否继续？",
+      "userEnableConfirm": "该用户将被启用，是否继续？",
+      "userDisableConfirm": "该用户将被停用，是否继续？",
+      "accessChangeConfirm": "该用户将由{from}权限变为{to}权限，是否继续？",
+      "passwordResetConfirm": "将重置用戶的登录密码，是否继续？",
+      "passwordInconsistent": "两次密码输入不一致，请重新输入"
+    }
+  }
+}

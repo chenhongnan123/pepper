@@ -1,0 +1,20 @@
+{
+  "systemSetting": {
+    "password": {
+      "title": "Password",
+      "password": "Password Settings",
+      "timeout": "Login Timeout",
+      "passwordLength": "Password Length",
+      "complexity": "Complexity",
+      "complexityList": {
+        "low": "Low / Numbers",
+        "middle": "Medium / Numbers, Letters",
+        "high": "High / Numbers, Letters, Special Characters"
+      },
+      "hour": "Hours",
+      "min": "Minutes",
+      "firstLoginCheck": "Force Password Change on First Login",
+      "tips": "Tips: Special characters cannot include %, single quotes, double quotes."
+    }
+  }
+}

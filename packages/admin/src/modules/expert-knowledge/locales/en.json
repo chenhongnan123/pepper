@@ -1,0 +1,32 @@
+{
+  "expertKnowledge": {
+    "table": {
+      "type": "Experience Type",
+      "typeNumber": "Experience Type Number",
+      "typeName": "Experience Type Name",
+      "number": "Experience Number",
+      "name": "Experience Name",
+      "description": "Experience Description",
+      "errorCode": "Error Code",
+      "errorName": "Error Name",
+      "errorPosition": "Fault Position",
+      "modifyBy": "Modified By",
+      "modifyTime": "Modified Time",
+      "createdBy": "Created By",
+      "createdTime": "Created Time",
+      "active": "Active"
+    },
+    "tab": {
+    },
+    "btn": {
+    },
+    "dialog": {
+      "addExpertKnowledge": "Add Expert Experience",
+      "editExpertKnowledge": "Edit Expert Experience",
+      "addExpertKnowledgeType": "Add Expert Experience Type",
+      "editExpertKnowledgeType": "Edit Expert Experience Type",
+      "expertKnowledgeEnableConfirm": "This experience will be enabled. Continue?",
+      "expertKnowledgeDisableConfirm": "This experience will be disabled. Continue?"
+    }
+  }
+}

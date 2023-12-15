@@ -1,0 +1,37 @@
+{
+  "productTransfer": {
+    "table": {
+      "no": "Number",
+      "deviceId": "Device ID",
+      "typeId": "Device Type ID",
+      "productId": "Product ID",
+      "transferId": "Transfer ID",
+      "deviceName": "Device Name",
+      "deviceNumber": "Device Number",
+      "productName": "Product Name",
+      "productNumber": "Product Code",
+      "productModel": "Product Model",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {
+      "templatedownload": "Download Template",
+      "reduce": "Remove",
+      "load": "Load",
+      "saveexit": "Save and Exit",
+      "save": "Save"
+    },
+    "dialog": {
+      "ignorerecord": "Note: The following entries already exist and have been automatically ignored."
+    },
+    "label": {
+      "deviceType": "Device Type",
+      "product": "Product",
+      "devicetypedropdown": "Device Type",
+      "machineproduclist": "Device Product List"
+    }
+  }
+}

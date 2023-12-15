@@ -1,0 +1,69 @@
+{
+  "alarmMonitor": {
+    "table": {
+      "no": "No.",
+      "alarmStatus": "报警状态",
+      "alarmStartTimestamp": "报警开始时间",
+      "alarmEndTimestamp": "报警结束时间",
+      "bomName": "部件名称",
+      "bomParentName": "层级名称",
+      "partName": "部件名称",
+      "alarmlocation": "故障位置",
+      "expertiseType": "经验类型",
+      "alarmCode": "报警代码",
+      "alarmName": "报警内容",
+      "videoPath": "报警视频（CCTV）",
+      "expertise": "专家经验",
+      "expertiseName": "经验名称",
+      "expertiseNumber": "经验编号",
+      "createBy": "创建人",
+      "createTime": "创建时间",
+      "recordTimestamp": "时刻",
+      "monitorLoadingStatus": "状态",
+      "action": "操作"
+    },
+    "btn": {
+      "templatedownload": "模版下载",
+      "getmorevideo": "获取更多时刻视频",
+      "download": "下载",
+      "obtain": "获取",
+      "redownload": "重新加载",
+      "loading": "加载中",
+      "loadsuccess": "加载成功",
+      "loadfail": "加载失败",
+      "viewAllExperiences": "查看所有专家经验"
+    },
+    "dialog": {
+      "expertise": "专家经验",
+      "alarmvideo": "报警视频",
+      "alarmlocation": "报警位置",
+      "camera": "相机",
+      "alarminfo": "报警信息",
+      "video": "视频",
+      "workstation": "工站",
+      "endtime": "结束时间",
+      "starttime": "开始时间",
+      "videoduration": "视频时长",
+      "searchfolder": "搜索层级",
+      "foldername": "层级名称",
+      "partname": "部件名称",
+      "ip": "IP",
+      "port": "端口",
+      "alarmtime": "报警时间",
+      "thoroughfare": "通道",
+      "time": "时刻",
+      "morevideo": "更多时刻视频",
+      "searchexpertisename": "搜索经验名称"
+    },
+    "label": {
+      "foldername": "层级名称",
+      "partname": "部件名称",
+      "editCamera": "编辑相机",
+      "unassociatedCamera": "未关联相机",
+      "view": "查看",
+      "alarmend": "报警结束",
+      "inalarm": "报警中",
+      "noVideo": "暂无视频"
+    }
+  }
+}

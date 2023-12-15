@@ -1,0 +1,32 @@
+{
+  "alarmCode": {
+    "table": {
+      "connectionId": "Connection ID",
+      "connectionType": "Connection Type",
+      "parameterName": "Parameter Name",
+      "parameterNumber": "Parameter Code",
+      "connectionName": "Connection Name",
+      "alarmCode": "Alarm Code",
+      "alarmName": "Alarm Name",
+      "joinScore": "Participate in Scoring",
+      "bomName": "Hierarchy Name",
+      "parentBomName": "Parent Hierarchy Name",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "action": "Action"
+    },
+    "dialog": {
+      "addMenu": "Add Menu",
+      "editMenu": "Edit Menu",
+      "searchPart": "Search Parts"
+    },
+    "label": {
+      "misspart": "Please select a part",
+      "misscode": "Please select a parameter",
+      "parameter": "Parameter"
+    },
+    "verification": {
+      "duplicate": "Duplicate Data"
+    }
+  }
+}

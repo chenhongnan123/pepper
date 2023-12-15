@@ -1,0 +1,38 @@
+{
+  "dictManagement": {
+    "table": {
+      "dictId": "Dictionary ID",
+      "dictName": "Dictionary Name",
+      "dictType": "Dictionary Type",
+      "default": "",
+      "dictCode": "Dictionary Code",
+      "statusLock": "System Lock",
+      "dictLabel": "Dictionary Label",
+      "dictSort": "Dictionary Sort",
+      "dictValue": "Dictionary Value",
+      "cssClass": "Style Class",
+      "isDefault": "System Default",
+      "listClass": "Echo Style",
+      "status": "Status",
+      "updateBy": "",
+      "updateTime": "",
+      "remark": "Remark",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "dialog": {
+      "addDictType": "Add Dictionary Type",
+      "editDictType": "Edit Dictionary Type",
+      "addDictData": "Add Dictionary Data",
+      "editDictData": "Edit Dictionary Data"
+    },
+    "btn": {
+      "normalStatus": "Yes",
+      "disabledStatus": "No"
+    },
+    "verification": {
+      "dictTypeError": "Must start with a letter and can only contain lowercase letters, numbers, and underscores"
+    }
+  }
+}

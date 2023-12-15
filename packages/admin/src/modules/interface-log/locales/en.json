@@ -1,0 +1,20 @@
+{
+  "interfaceLog": {
+    "table": {
+      "no": "No.",
+      "upperSystem": "Upper System",
+      "interfaceName": "Interface Name",
+      "dispatchNumber": "Dispatch Number",
+      "deviceNumber": "Device Number",
+      "status": "Status",
+      "updateBy": "Modified By",
+      "updateTime": "Modified Time",
+      "createBy": "Created By",
+      "createTime": "Creation Time",
+      "action": "Action"
+    },
+    "btn": {},
+    "dialog": {},
+    "label": {}
+  }
+}
